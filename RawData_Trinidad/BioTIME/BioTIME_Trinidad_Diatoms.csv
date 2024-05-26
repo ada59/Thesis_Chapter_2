@@ -1,0 +1,4387 @@
+timestep,site,morphospecies,abundance
+1,Acono d,A,8
+1,Acono d,AE,8
+1,Acono d,AG,4
+1,Acono d,AP,1
+1,Acono d,AQ,1
+1,Acono d,BB,1
+1,Acono d,C,21
+1,Acono d,CB,4
+1,Acono d,E,1
+1,Acono d,G,1496
+1,Acono d,H,336
+1,Acono d,L,19
+1,Acono d,N,16
+1,Acono d,U,173
+2,Acono d,A,75
+2,Acono d,AE,20
+2,Acono d,AG,112
+2,Acono d,AL,2
+2,Acono d,AP,1
+2,Acono d,AQ,3
+2,Acono d,BB,8
+2,Acono d,BD,5
+2,Acono d,BV,1
+2,Acono d,C,387
+2,Acono d,CB,1
+2,Acono d,CC,2
+2,Acono d,CI,2
+2,Acono d,E,84
+2,Acono d,G,336
+2,Acono d,H,100
+2,Acono d,L,12
+2,Acono d,N,1
+2,Acono d,U,190
+3,Acono d,A,12
+3,Acono d,AE,38
+3,Acono d,AG,67
+3,Acono d,AQ,2
+3,Acono d,BB,12
+3,Acono d,BD,4
+3,Acono d,BK,1
+3,Acono d,C,10
+3,Acono d,CC,3
+3,Acono d,CI,1
+3,Acono d,E,1
+3,Acono d,G,523
+3,Acono d,H,68
+3,Acono d,L,103
+3,Acono d,N,11
+3,Acono d,U,175
+4,Acono d,A,20
+4,Acono d,AE,4
+4,Acono d,AG,7
+4,Acono d,AQ,1
+4,Acono d,BD,1
+4,Acono d,C,7
+4,Acono d,CC,2
+4,Acono d,E,1
+4,Acono d,G,50
+4,Acono d,H,239
+4,Acono d,L,84
+4,Acono d,N,1
+4,Acono d,U,904
+5,Acono d,A,3
+5,Acono d,AE,3
+5,Acono d,AQ,2
+5,Acono d,BB,3
+5,Acono d,BD,4
+5,Acono d,BJ,1
+5,Acono d,BK,1
+5,Acono d,C,10
+5,Acono d,E,1
+5,Acono d,G,95
+5,Acono d,H,106
+5,Acono d,L,237
+5,Acono d,N,4
+5,Acono d,U,54
+6,Acono d,A,81
+6,Acono d,AE,4
+6,Acono d,AG,51
+6,Acono d,AH,1
+6,Acono d,AL,1
+6,Acono d,AM,1
+6,Acono d,AP,14
+6,Acono d,AQ,1
+6,Acono d,BB,4
+6,Acono d,BD,1
+6,Acono d,BJ,3
+6,Acono d,C,160
+6,Acono d,D,45
+6,Acono d,E,30
+6,Acono d,G,151
+6,Acono d,H,170
+6,Acono d,L,671
+6,Acono d,N,4
+6,Acono d,U,185
+7,Acono d,A,111
+7,Acono d,AE,6
+7,Acono d,AG,24
+7,Acono d,AL,12
+7,Acono d,AP,16
+7,Acono d,AQ,3
+7,Acono d,BB,6
+7,Acono d,BD,42
+7,Acono d,BJ,8
+7,Acono d,C,26
+7,Acono d,D,11
+7,Acono d,E,39
+7,Acono d,G,133
+7,Acono d,H,281
+7,Acono d,L,764
+7,Acono d,N,10
+7,Acono d,U,169
+8,Acono d,A,11
+8,Acono d,AG,1
+8,Acono d,AH,1
+8,Acono d,AL,9
+8,Acono d,AM,1
+8,Acono d,BK,3
+8,Acono d,BV,2
+8,Acono d,C,4
+8,Acono d,E,1
+8,Acono d,G,248
+8,Acono d,H,407
+8,Acono d,L,117
+8,Acono d,N,2
+8,Acono d,U,26
+9,Acono d,A,25
+9,Acono d,AE,2
+9,Acono d,AG,16
+9,Acono d,AL,2
+9,Acono d,BB,4
+9,Acono d,BK,1
+9,Acono d,C,364
+9,Acono d,E,14
+9,Acono d,G,774
+9,Acono d,H,274
+9,Acono d,L,318
+9,Acono d,N,1
+9,Acono d,U,35
+10,Acono d,A,229
+10,Acono d,AE,8
+10,Acono d,AG,81
+10,Acono d,AH,2
+10,Acono d,AL,4
+10,Acono d,AP,3
+10,Acono d,BB,2
+10,Acono d,BD,5
+10,Acono d,BK,1
+10,Acono d,BV,1
+10,Acono d,C,41
+10,Acono d,CI,1
+10,Acono d,D,3
+10,Acono d,E,1
+10,Acono d,G,207
+10,Acono d,H,442
+10,Acono d,L,248
+10,Acono d,N,1
+10,Acono d,U,67
+11,Acono d,A,26
+11,Acono d,AE,1
+11,Acono d,AG,10
+11,Acono d,BB,1
+11,Acono d,BD,8
+11,Acono d,BJ,1
+11,Acono d,BT,1
+11,Acono d,C,6
+11,Acono d,D,1
+11,Acono d,E,2
+11,Acono d,G,128
+11,Acono d,H,121
+11,Acono d,L,70
+11,Acono d,N,2
+11,Acono d,U,27
+12,Acono d,A,7
+12,Acono d,AE,1
+12,Acono d,AG,42
+12,Acono d,AL,3
+12,Acono d,AP,1
+12,Acono d,BB,2
+12,Acono d,BJ,3
+12,Acono d,C,1
+12,Acono d,D,3
+12,Acono d,E,5
+12,Acono d,G,366
+12,Acono d,H,210
+12,Acono d,L,81
+12,Acono d,N,1
+12,Acono d,U,9
+13,Acono d,A,11
+13,Acono d,AG,5
+13,Acono d,AL,4
+13,Acono d,BB,1
+13,Acono d,BD,1
+13,Acono d,BK,2
+13,Acono d,C,22
+13,Acono d,D,4
+13,Acono d,E,18
+13,Acono d,G,60
+13,Acono d,H,79
+13,Acono d,L,294
+13,Acono d,N,1
+13,Acono d,U,54
+14,Acono d,A,120
+14,Acono d,AE,5
+14,Acono d,AG,9
+14,Acono d,AH,1
+14,Acono d,AP,3
+14,Acono d,AQ,2
+14,Acono d,BB,2
+14,Acono d,BD,191
+14,Acono d,BK,1
+14,Acono d,BV,1
+14,Acono d,C,1
+14,Acono d,CB,1
+14,Acono d,D,6
+14,Acono d,E,29
+14,Acono d,G,943
+14,Acono d,H,105
+14,Acono d,L,82
+14,Acono d,N,6
+14,Acono d,U,50
+15,Acono d,A,21
+15,Acono d,AE,1
+15,Acono d,AG,14
+15,Acono d,AP,1
+15,Acono d,AQ,2
+15,Acono d,BD,1
+15,Acono d,C,8
+15,Acono d,CI,1
+15,Acono d,D,3
+15,Acono d,E,2
+15,Acono d,G,449
+15,Acono d,H,99
+15,Acono d,L,13
+15,Acono d,N,1
+15,Acono d,U,7
+16,Acono d,A,15
+16,Acono d,AE,4
+16,Acono d,AG,9
+16,Acono d,AQ,1
+16,Acono d,BB,4
+16,Acono d,C,1
+16,Acono d,CC,1
+16,Acono d,E,1
+16,Acono d,G,44
+16,Acono d,H,26
+16,Acono d,L,28
+16,Acono d,U,25
+17,Acono d,A,11
+17,Acono d,AE,3
+17,Acono d,AG,23
+17,Acono d,AL,2
+17,Acono d,BD,4
+17,Acono d,C,30
+17,Acono d,D,1
+17,Acono d,E,23
+17,Acono d,G,762
+17,Acono d,H,348
+17,Acono d,L,41
+17,Acono d,N,6
+17,Acono d,U,12
+18,Acono d,A,50
+18,Acono d,AE,5
+18,Acono d,AG,6
+18,Acono d,BB,6
+18,Acono d,BD,4
+18,Acono d,C,3
+18,Acono d,E,2
+18,Acono d,G,4
+18,Acono d,H,5
+18,Acono d,L,39
+18,Acono d,U,22
+19,Acono d,A,74
+19,Acono d,AE,14
+19,Acono d,AG,5
+19,Acono d,AH,3
+19,Acono d,AP,4
+19,Acono d,BB,32
+19,Acono d,BD,1
+19,Acono d,C,5
+19,Acono d,CI,2
+19,Acono d,D,20
+19,Acono d,E,44
+19,Acono d,G,143
+19,Acono d,H,27
+19,Acono d,L,117
+19,Acono d,U,72
+1,Acono u,A,1
+1,Acono u,AG,6
+1,Acono u,AP,1
+1,Acono u,AQ,15
+1,Acono u,BJ,1
+1,Acono u,C,42
+1,Acono u,CB,6
+1,Acono u,CC,1
+1,Acono u,E,1
+1,Acono u,G,188
+1,Acono u,H,1041
+1,Acono u,L,22
+1,Acono u,N,2
+1,Acono u,U,266
+2,Acono u,A,4
+2,Acono u,AE,2
+2,Acono u,AG,5
+2,Acono u,AL,1
+2,Acono u,AQ,3
+2,Acono u,BB,2
+2,Acono u,BD,1
+2,Acono u,BK,1
+2,Acono u,C,22
+2,Acono u,E,6
+2,Acono u,G,115
+2,Acono u,H,161
+2,Acono u,L,8
+2,Acono u,N,1
+2,Acono u,U,35
+3,Acono u,A,4
+3,Acono u,AE,1
+3,Acono u,AG,2
+3,Acono u,AQ,1
+3,Acono u,BB,1
+3,Acono u,BJ,2
+3,Acono u,BK,2
+3,Acono u,BV,2
+3,Acono u,C,3
+3,Acono u,CB,1
+3,Acono u,CC,2
+3,Acono u,CI,1
+3,Acono u,G,50
+3,Acono u,H,281
+3,Acono u,L,80
+3,Acono u,N,1
+3,Acono u,U,162
+4,Acono u,A,1
+4,Acono u,AE,2
+4,Acono u,AG,14
+4,Acono u,AQ,1
+4,Acono u,BB,3
+4,Acono u,C,21
+4,Acono u,E,2
+4,Acono u,G,156
+4,Acono u,H,413
+4,Acono u,L,56
+4,Acono u,N,2
+4,Acono u,U,2536
+5,Acono u,A,7
+5,Acono u,AE,6
+5,Acono u,AQ,1
+5,Acono u,BB,6
+5,Acono u,BD,1
+5,Acono u,C,22
+5,Acono u,E,2
+5,Acono u,G,58
+5,Acono u,H,110
+5,Acono u,L,113
+5,Acono u,N,1
+5,Acono u,U,57
+6,Acono u,A,20
+6,Acono u,AE,2
+6,Acono u,AG,40
+6,Acono u,AH,1
+6,Acono u,AL,1
+6,Acono u,BJ,2
+6,Acono u,BK,1
+6,Acono u,C,252
+6,Acono u,CB,1
+6,Acono u,D,4
+6,Acono u,E,52
+6,Acono u,G,203
+6,Acono u,H,500
+6,Acono u,L,161
+6,Acono u,N,1
+6,Acono u,U,83
+7,Acono u,A,29
+7,Acono u,AG,46
+7,Acono u,AL,2
+7,Acono u,AQ,55
+7,Acono u,BB,3
+7,Acono u,BD,3
+7,Acono u,BJ,3
+7,Acono u,BV,2
+7,Acono u,C,121
+7,Acono u,D,4
+7,Acono u,E,30
+7,Acono u,G,248
+7,Acono u,H,698
+7,Acono u,L,368
+7,Acono u,N,2
+7,Acono u,U,66
+8,Acono u,A,1
+8,Acono u,AG,7
+8,Acono u,AH,1
+8,Acono u,AL,2
+8,Acono u,C,21
+8,Acono u,CB,1
+8,Acono u,E,10
+8,Acono u,G,128
+8,Acono u,H,366
+8,Acono u,L,194
+8,Acono u,N,2
+8,Acono u,U,34
+9,Acono u,AG,7
+9,Acono u,AH,2
+9,Acono u,BK,1
+9,Acono u,C,55
+9,Acono u,E,16
+9,Acono u,G,55
+9,Acono u,H,492
+9,Acono u,L,190
+9,Acono u,N,1
+9,Acono u,U,54
+10,Acono u,A,2
+10,Acono u,AG,10
+10,Acono u,AH,1
+10,Acono u,BD,5
+10,Acono u,C,11
+10,Acono u,E,11
+10,Acono u,G,88
+10,Acono u,H,1041
+10,Acono u,L,71
+10,Acono u,N,1
+10,Acono u,U,49
+11,Acono u,A,5
+11,Acono u,AG,14
+11,Acono u,AH,2
+11,Acono u,AL,1
+11,Acono u,BD,2
+11,Acono u,BJ,1
+11,Acono u,C,7
+11,Acono u,D,3
+11,Acono u,E,4
+11,Acono u,G,26
+11,Acono u,H,336
+11,Acono u,L,74
+11,Acono u,N,2
+11,Acono u,U,24
+12,Acono u,A,1
+12,Acono u,AG,15
+12,Acono u,AH,1
+12,Acono u,BB,1
+12,Acono u,BD,2
+12,Acono u,C,1
+12,Acono u,D,2
+12,Acono u,E,6
+12,Acono u,G,51
+12,Acono u,H,630
+12,Acono u,L,41
+12,Acono u,N,7
+12,Acono u,U,10
+13,Acono u,A,5
+13,Acono u,AE,1
+13,Acono u,AG,5
+13,Acono u,AL,3
+13,Acono u,AQ,1
+13,Acono u,AV,2
+13,Acono u,BD,2
+13,Acono u,BK,1
+13,Acono u,BT,2
+13,Acono u,BV,1
+13,Acono u,C,6
+13,Acono u,E,16
+13,Acono u,G,38
+13,Acono u,H,288
+13,Acono u,L,49
+13,Acono u,U,19
+14,Acono u,A,3
+14,Acono u,AG,13
+14,Acono u,AP,2
+14,Acono u,AQ,1
+14,Acono u,BD,3
+14,Acono u,BJ,1
+14,Acono u,BK,6
+14,Acono u,C,3
+14,Acono u,D,7
+14,Acono u,E,77
+14,Acono u,G,126
+14,Acono u,H,311
+14,Acono u,L,56
+14,Acono u,U,66
+15,Acono u,AE,1
+15,Acono u,AG,8
+15,Acono u,AH,3
+15,Acono u,AL,1
+15,Acono u,BK,1
+15,Acono u,C,20
+15,Acono u,E,23
+15,Acono u,G,56
+15,Acono u,H,249
+15,Acono u,L,46
+15,Acono u,N,5
+15,Acono u,U,10
+16,Acono u,A,1
+16,Acono u,AE,3
+16,Acono u,AG,6
+16,Acono u,AH,1
+16,Acono u,BD,2
+16,Acono u,BJ,1
+16,Acono u,C,3
+16,Acono u,D,3
+16,Acono u,E,15
+16,Acono u,G,32
+16,Acono u,H,154
+16,Acono u,L,17
+16,Acono u,U,17
+17,Acono u,AE,3
+17,Acono u,AG,33
+17,Acono u,BJ,1
+17,Acono u,BK,1
+17,Acono u,C,43
+17,Acono u,E,18
+17,Acono u,G,110
+17,Acono u,H,330
+17,Acono u,L,59
+17,Acono u,N,1
+17,Acono u,U,23
+18,Acono u,A,1
+18,Acono u,AE,3
+18,Acono u,AG,8
+18,Acono u,AH,54
+18,Acono u,BB,4
+18,Acono u,BD,60
+18,Acono u,BT,1
+18,Acono u,C,6
+18,Acono u,D,2
+18,Acono u,E,21
+18,Acono u,G,35
+18,Acono u,H,181
+18,Acono u,L,16
+18,Acono u,N,4
+18,Acono u,U,22
+19,Acono u,A,2
+19,Acono u,AG,14
+19,Acono u,AP,1
+19,Acono u,AQ,1
+19,Acono u,BD,3
+19,Acono u,C,14
+19,Acono u,D,3
+19,Acono u,E,7
+19,Acono u,G,26
+19,Acono u,H,161
+19,Acono u,L,7
+19,Acono u,U,26
+1,Caura d,A,3
+1,Caura d,AE,1
+1,Caura d,AG,8
+1,Caura d,AP,1
+1,Caura d,AQ,1
+1,Caura d,BB,2
+1,Caura d,BD,1
+1,Caura d,C,20
+1,Caura d,G,240
+1,Caura d,H,44
+1,Caura d,L,14
+1,Caura d,N,3
+1,Caura d,U,52
+2,Caura d,A,4
+2,Caura d,AE,2
+2,Caura d,AG,7
+2,Caura d,AH,2
+2,Caura d,AL,1
+2,Caura d,BB,1
+2,Caura d,BD,5
+2,Caura d,BK,1
+2,Caura d,BV,1
+2,Caura d,C,26
+2,Caura d,CB,1
+2,Caura d,E,1
+2,Caura d,G,772
+2,Caura d,H,27
+2,Caura d,L,20
+2,Caura d,U,33
+3,Caura d,A,2
+3,Caura d,AG,5
+3,Caura d,AL,1
+3,Caura d,AQ,1
+3,Caura d,BD,2
+3,Caura d,BK,1
+3,Caura d,CC,1
+3,Caura d,G,495
+3,Caura d,H,59
+3,Caura d,L,37
+3,Caura d,N,2
+3,Caura d,U,17
+4,Caura d,A,7
+4,Caura d,AE,3
+4,Caura d,AG,16
+4,Caura d,AL,4
+4,Caura d,BB,2
+4,Caura d,BK,1
+4,Caura d,C,4
+4,Caura d,G,201
+4,Caura d,H,162
+4,Caura d,L,70
+4,Caura d,U,34
+5,Caura d,AG,1
+5,Caura d,AP,1
+5,Caura d,BB,1
+5,Caura d,BD,1
+5,Caura d,C,2
+5,Caura d,D,1
+5,Caura d,G,159
+5,Caura d,H,25
+5,Caura d,L,6
+5,Caura d,N,2
+5,Caura d,U,11
+6,Caura d,A,8
+6,Caura d,AE,2
+6,Caura d,AG,13
+6,Caura d,AH,1
+6,Caura d,AL,7
+6,Caura d,AM,2
+6,Caura d,AV,1
+6,Caura d,BB,1
+6,Caura d,BD,3
+6,Caura d,BJ,2
+6,Caura d,BK,1
+6,Caura d,C,1021
+6,Caura d,E,6
+6,Caura d,G,518
+6,Caura d,H,201
+6,Caura d,L,57
+6,Caura d,N,6
+6,Caura d,U,173
+7,Caura d,A,5
+7,Caura d,AE,1
+7,Caura d,AG,37
+7,Caura d,AL,12
+7,Caura d,AP,4
+7,Caura d,AQ,4
+7,Caura d,BB,2
+7,Caura d,BD,10
+7,Caura d,BV,1
+7,Caura d,C,25
+7,Caura d,CB,10
+7,Caura d,E,1
+7,Caura d,G,373
+7,Caura d,H,121
+7,Caura d,L,22
+7,Caura d,N,8
+7,Caura d,U,27
+8,Caura d,A,37
+8,Caura d,AG,6
+8,Caura d,AQ,1
+8,Caura d,BB,13
+8,Caura d,BD,2
+8,Caura d,C,7
+8,Caura d,E,1
+8,Caura d,G,11
+8,Caura d,H,13
+8,Caura d,L,60
+8,Caura d,N,1
+8,Caura d,U,2
+9,Caura d,AG,3
+9,Caura d,AL,20
+9,Caura d,AP,1
+9,Caura d,AQ,2
+9,Caura d,BB,2
+9,Caura d,BD,1
+9,Caura d,BJ,4
+9,Caura d,BK,2
+9,Caura d,BV,1
+9,Caura d,C,15
+9,Caura d,E,2
+9,Caura d,G,1418
+9,Caura d,H,444
+9,Caura d,L,48
+9,Caura d,N,1
+9,Caura d,U,17
+10,Caura d,A,62
+10,Caura d,AE,1
+10,Caura d,AG,12
+10,Caura d,AH,2
+10,Caura d,AL,4
+10,Caura d,AP,1
+10,Caura d,AQ,6
+10,Caura d,BB,1
+10,Caura d,BD,7
+10,Caura d,BJ,1
+10,Caura d,BK,1
+10,Caura d,BT,7
+10,Caura d,BV,1
+10,Caura d,C,76
+10,Caura d,CB,3
+10,Caura d,CI,1
+10,Caura d,E,20
+10,Caura d,G,274
+10,Caura d,H,155
+10,Caura d,L,87
+10,Caura d,N,26
+10,Caura d,U,63
+11,Caura d,A,18
+11,Caura d,AE,2
+11,Caura d,AG,10
+11,Caura d,AL,1
+11,Caura d,AP,1
+11,Caura d,BB,3
+11,Caura d,BD,5
+11,Caura d,BT,1
+11,Caura d,C,25
+11,Caura d,E,1
+11,Caura d,G,588
+11,Caura d,H,51
+11,Caura d,L,28
+11,Caura d,N,12
+11,Caura d,U,26
+12,Caura d,A,16
+12,Caura d,AE,1
+12,Caura d,AG,11
+12,Caura d,AL,1
+12,Caura d,BB,1
+12,Caura d,BD,3
+12,Caura d,BJ,1
+12,Caura d,C,26
+12,Caura d,D,2
+12,Caura d,E,9
+12,Caura d,G,403
+12,Caura d,H,36
+12,Caura d,L,20
+12,Caura d,N,3
+12,Caura d,U,16
+13,Caura d,A,10
+13,Caura d,AE,1
+13,Caura d,AG,2
+13,Caura d,AQ,1
+13,Caura d,BT,1
+13,Caura d,C,3
+13,Caura d,E,2
+13,Caura d,G,208
+13,Caura d,H,45
+13,Caura d,L,68
+13,Caura d,U,11
+14,Caura d,A,11
+14,Caura d,AE,1
+14,Caura d,AG,6
+14,Caura d,AL,5
+14,Caura d,AQ,1
+14,Caura d,BD,7
+14,Caura d,C,15
+14,Caura d,CB,5
+14,Caura d,D,3
+14,Caura d,E,1
+14,Caura d,G,1007
+14,Caura d,H,31
+14,Caura d,L,10
+14,Caura d,N,6
+14,Caura d,U,14
+15,Caura d,A,10
+15,Caura d,AE,4
+15,Caura d,AG,16
+15,Caura d,AL,1
+15,Caura d,BB,3
+15,Caura d,BD,2
+15,Caura d,BJ,2
+15,Caura d,BK,2
+15,Caura d,BT,1
+15,Caura d,C,15
+15,Caura d,E,1
+15,Caura d,G,249
+15,Caura d,H,26
+15,Caura d,L,21
+15,Caura d,N,38
+15,Caura d,U,29
+16,Caura d,A,9
+16,Caura d,AG,2
+16,Caura d,BB,1
+16,Caura d,BD,1
+16,Caura d,C,3
+16,Caura d,E,1
+16,Caura d,G,230
+16,Caura d,H,26
+16,Caura d,L,15
+16,Caura d,N,6
+16,Caura d,U,18
+17,Caura d,A,5
+17,Caura d,AE,1
+17,Caura d,AG,5
+17,Caura d,AM,1
+17,Caura d,BD,2
+17,Caura d,BJ,1
+17,Caura d,C,5
+17,Caura d,E,3
+17,Caura d,G,112
+17,Caura d,H,48
+17,Caura d,L,31
+17,Caura d,N,15
+17,Caura d,U,28
+18,Caura d,A,40
+18,Caura d,AG,30
+18,Caura d,AL,3
+18,Caura d,AQ,1
+18,Caura d,BD,29
+18,Caura d,BK,1
+18,Caura d,C,12
+18,Caura d,D,1
+18,Caura d,E,16
+18,Caura d,G,354
+18,Caura d,H,37
+18,Caura d,L,18
+18,Caura d,N,59
+18,Caura d,U,108
+19,Caura d,AE,1
+19,Caura d,AG,2
+19,Caura d,G,138
+19,Caura d,H,7
+19,Caura d,L,4
+19,Caura d,N,8
+19,Caura d,U,1
+1,Caura u,A,3
+1,Caura u,AE,7
+1,Caura u,AG,6
+1,Caura u,AQ,1
+1,Caura u,BB,2
+1,Caura u,BT,1
+1,Caura u,C,19
+1,Caura u,E,2
+1,Caura u,G,301
+1,Caura u,H,88
+1,Caura u,L,23
+1,Caura u,N,6
+1,Caura u,U,58
+2,Caura u,A,13
+2,Caura u,AE,6
+2,Caura u,AG,5
+2,Caura u,AL,1
+2,Caura u,AP,1
+2,Caura u,BB,5
+2,Caura u,C,123
+2,Caura u,E,17
+2,Caura u,G,739
+2,Caura u,H,84
+2,Caura u,L,36
+2,Caura u,U,66
+3,Caura u,A,19
+3,Caura u,AE,7
+3,Caura u,AG,74
+3,Caura u,AL,12
+3,Caura u,AP,2
+3,Caura u,AQ,1
+3,Caura u,BB,3
+3,Caura u,BV,1
+3,Caura u,C,7
+3,Caura u,E,1
+3,Caura u,G,214
+3,Caura u,H,293
+3,Caura u,L,92
+3,Caura u,N,1
+3,Caura u,U,60
+4,Caura u,A,14
+4,Caura u,AE,19
+4,Caura u,AG,19
+4,Caura u,BB,8
+4,Caura u,C,33
+4,Caura u,G,319
+4,Caura u,H,655
+4,Caura u,L,389
+4,Caura u,N,2
+4,Caura u,U,61
+5,Caura u,A,1
+5,Caura u,C,1
+5,Caura u,G,5
+5,Caura u,H,11
+5,Caura u,L,21
+5,Caura u,U,8
+6,Caura u,A,14
+6,Caura u,AE,3
+6,Caura u,AG,2
+6,Caura u,AH,2
+6,Caura u,AM,1
+6,Caura u,BB,1
+6,Caura u,BD,2
+6,Caura u,BJ,2
+6,Caura u,C,6
+6,Caura u,D,1
+6,Caura u,E,13
+6,Caura u,G,382
+6,Caura u,H,302
+6,Caura u,L,52
+6,Caura u,N,2
+6,Caura u,U,13
+7,Caura u,A,40
+7,Caura u,AE,10
+7,Caura u,AG,40
+7,Caura u,AH,1
+7,Caura u,AL,2
+7,Caura u,AQ,1
+7,Caura u,BB,8
+7,Caura u,BD,1
+7,Caura u,BJ,1
+7,Caura u,BK,1
+7,Caura u,C,37
+7,Caura u,E,23
+7,Caura u,G,217
+7,Caura u,H,338
+7,Caura u,L,250
+7,Caura u,N,3
+7,Caura u,U,49
+8,Caura u,A,16
+8,Caura u,AE,6
+8,Caura u,AG,4
+8,Caura u,AL,17
+8,Caura u,AP,1
+8,Caura u,AQ,2
+8,Caura u,BB,19
+8,Caura u,BD,1
+8,Caura u,BJ,1
+8,Caura u,BK,4
+8,Caura u,BV,3
+8,Caura u,C,9
+8,Caura u,G,4
+8,Caura u,H,25
+8,Caura u,L,1064
+8,Caura u,U,114
+9,Caura u,A,6
+9,Caura u,AG,3
+9,Caura u,AP,1
+9,Caura u,AQ,1
+9,Caura u,BB,7
+9,Caura u,BK,4
+9,Caura u,C,122
+9,Caura u,E,7
+9,Caura u,G,1463
+9,Caura u,H,505
+9,Caura u,L,83
+9,Caura u,N,9
+9,Caura u,U,19
+10,Caura u,A,17
+10,Caura u,AE,5
+10,Caura u,AG,10
+10,Caura u,AL,1
+10,Caura u,AP,11
+10,Caura u,AQ,2
+10,Caura u,BB,2
+10,Caura u,BD,13
+10,Caura u,BV,3
+10,Caura u,C,22
+10,Caura u,CB,3
+10,Caura u,D,1
+10,Caura u,E,6
+10,Caura u,G,484
+10,Caura u,H,124
+10,Caura u,L,184
+10,Caura u,N,3
+10,Caura u,U,54
+11,Caura u,A,2
+11,Caura u,AE,5
+11,Caura u,AG,3
+11,Caura u,AL,1
+11,Caura u,BB,1
+11,Caura u,BD,1
+11,Caura u,BT,1
+11,Caura u,C,12
+11,Caura u,E,1
+11,Caura u,G,120
+11,Caura u,H,69
+11,Caura u,L,61
+11,Caura u,N,1
+11,Caura u,U,41
+12,Caura u,A,2
+12,Caura u,AE,4
+12,Caura u,AG,23
+12,Caura u,AQ,1
+12,Caura u,BB,4
+12,Caura u,C,18
+12,Caura u,E,2
+12,Caura u,G,68
+12,Caura u,H,91
+12,Caura u,L,38
+12,Caura u,U,24
+13,Caura u,AE,2
+13,Caura u,AG,8
+13,Caura u,AH,1
+13,Caura u,BD,1
+13,Caura u,C,8
+13,Caura u,E,3
+13,Caura u,G,200
+13,Caura u,H,75
+13,Caura u,L,115
+13,Caura u,N,1
+13,Caura u,U,29
+14,Caura u,A,3
+14,Caura u,AE,1
+14,Caura u,AG,13
+14,Caura u,AH,5
+14,Caura u,AL,2
+14,Caura u,AM,1
+14,Caura u,AQ,1
+14,Caura u,BB,1
+14,Caura u,BD,2
+14,Caura u,C,59
+14,Caura u,E,27
+14,Caura u,G,203
+14,Caura u,H,29
+14,Caura u,L,54
+14,Caura u,N,1
+14,Caura u,U,40
+15,Caura u,A,27
+15,Caura u,AE,13
+15,Caura u,AG,12
+15,Caura u,AH,5
+15,Caura u,AL,1
+15,Caura u,AQ,4
+15,Caura u,BB,5
+15,Caura u,BJ,1
+15,Caura u,BK,1
+15,Caura u,BT,3
+15,Caura u,BV,1
+15,Caura u,C,35
+15,Caura u,D,1
+15,Caura u,E,2
+15,Caura u,G,62
+15,Caura u,H,302
+15,Caura u,L,54
+15,Caura u,N,4
+15,Caura u,U,23
+16,Caura u,A,19
+16,Caura u,AE,186
+16,Caura u,AG,66
+16,Caura u,AH,2
+16,Caura u,AQ,10
+16,Caura u,BB,165
+16,Caura u,BD,1
+16,Caura u,BK,1
+16,Caura u,BT,2
+16,Caura u,BV,3
+16,Caura u,C,32
+16,Caura u,CB,1
+16,Caura u,CI,1
+16,Caura u,E,3
+16,Caura u,G,28
+16,Caura u,H,52
+16,Caura u,L,219
+16,Caura u,N,2
+16,Caura u,U,64
+17,Caura u,A,1
+17,Caura u,AE,6
+17,Caura u,AG,5
+17,Caura u,AL,1
+17,Caura u,AP,1
+17,Caura u,BB,3
+17,Caura u,BD,1
+17,Caura u,C,24
+17,Caura u,E,8
+17,Caura u,G,171
+17,Caura u,H,76
+17,Caura u,L,32
+17,Caura u,N,4
+17,Caura u,U,30
+18,Caura u,AE,7
+18,Caura u,AG,6
+18,Caura u,AH,3
+18,Caura u,AL,1
+18,Caura u,BB,10
+18,Caura u,BD,31
+18,Caura u,BV,1
+18,Caura u,C,18
+18,Caura u,CC,1
+18,Caura u,CI,1
+18,Caura u,E,38
+18,Caura u,G,99
+18,Caura u,H,36
+18,Caura u,L,27
+18,Caura u,N,3
+18,Caura u,U,28
+19,Caura u,A,6
+19,Caura u,AE,11
+19,Caura u,AG,12
+19,Caura u,AH,6
+19,Caura u,AL,18
+19,Caura u,AM,1
+19,Caura u,AP,2
+19,Caura u,AQ,3
+19,Caura u,BB,6
+19,Caura u,BD,4
+19,Caura u,BJ,1
+19,Caura u,BK,5
+19,Caura u,BV,1
+19,Caura u,C,20
+19,Caura u,CI,1
+19,Caura u,E,35
+19,Caura u,G,126
+19,Caura u,H,261
+19,Caura u,L,53
+19,Caura u,N,4
+19,Caura u,U,53
+1,Lopinot d,A,26
+1,Lopinot d,AE,16
+1,Lopinot d,AG,9
+1,Lopinot d,AL,2
+1,Lopinot d,AP,2
+1,Lopinot d,AQ,2
+1,Lopinot d,BB,17
+1,Lopinot d,BD,53
+1,Lopinot d,BK,1
+1,Lopinot d,BT,4
+1,Lopinot d,BV,1
+1,Lopinot d,C,37
+1,Lopinot d,CI,1
+1,Lopinot d,D,32
+1,Lopinot d,E,6
+1,Lopinot d,G,219
+1,Lopinot d,H,42
+1,Lopinot d,L,57
+1,Lopinot d,N,34
+1,Lopinot d,U,295
+2,Lopinot d,A,41
+2,Lopinot d,AE,5
+2,Lopinot d,AG,4
+2,Lopinot d,AL,1
+2,Lopinot d,AQ,1
+2,Lopinot d,BB,14
+2,Lopinot d,BT,2
+2,Lopinot d,C,6
+2,Lopinot d,D,318
+2,Lopinot d,E,9
+2,Lopinot d,G,310
+2,Lopinot d,H,6
+2,Lopinot d,L,9
+2,Lopinot d,U,51
+3,Lopinot d,A,31
+3,Lopinot d,AE,8
+3,Lopinot d,AG,20
+3,Lopinot d,AH,1
+3,Lopinot d,AL,7
+3,Lopinot d,BD,1
+3,Lopinot d,BK,1
+3,Lopinot d,C,57
+3,Lopinot d,CC,1
+3,Lopinot d,D,14
+3,Lopinot d,E,7
+3,Lopinot d,G,95
+3,Lopinot d,H,9
+3,Lopinot d,L,59
+3,Lopinot d,N,2
+3,Lopinot d,U,86
+4,Lopinot d,A,103
+4,Lopinot d,AE,4
+4,Lopinot d,AG,1
+4,Lopinot d,AL,2
+4,Lopinot d,BB,4
+4,Lopinot d,C,1
+4,Lopinot d,G,12
+4,Lopinot d,H,6
+4,Lopinot d,L,163
+4,Lopinot d,U,82
+5,Lopinot d,A,32
+5,Lopinot d,AE,27
+5,Lopinot d,AG,9
+5,Lopinot d,AL,1
+5,Lopinot d,AQ,1
+5,Lopinot d,BB,20
+5,Lopinot d,BV,8
+5,Lopinot d,C,41
+5,Lopinot d,CB,1
+5,Lopinot d,CI,1
+5,Lopinot d,D,41
+5,Lopinot d,E,1
+5,Lopinot d,G,817
+5,Lopinot d,H,19
+5,Lopinot d,L,103
+5,Lopinot d,N,3
+5,Lopinot d,U,49
+6,Lopinot d,A,83
+6,Lopinot d,AE,3
+6,Lopinot d,AG,75
+6,Lopinot d,AL,7
+6,Lopinot d,AP,3
+6,Lopinot d,BB,1
+6,Lopinot d,C,68
+6,Lopinot d,D,81
+6,Lopinot d,E,5
+6,Lopinot d,G,515
+6,Lopinot d,H,25
+6,Lopinot d,L,171
+6,Lopinot d,N,6
+6,Lopinot d,U,97
+7,Lopinot d,A,95
+7,Lopinot d,AE,6
+7,Lopinot d,AG,36
+7,Lopinot d,AL,1
+7,Lopinot d,AP,1
+7,Lopinot d,AQ,1
+7,Lopinot d,BB,3
+7,Lopinot d,BD,1
+7,Lopinot d,C,55
+7,Lopinot d,D,77
+7,Lopinot d,E,8
+7,Lopinot d,G,213
+7,Lopinot d,H,15
+7,Lopinot d,L,88
+7,Lopinot d,N,7
+7,Lopinot d,U,82
+8,Lopinot d,A,8
+8,Lopinot d,AG,4
+8,Lopinot d,AL,19
+8,Lopinot d,BB,24
+8,Lopinot d,BD,1
+8,Lopinot d,BJ,1
+8,Lopinot d,BK,1
+8,Lopinot d,C,36
+8,Lopinot d,D,21
+8,Lopinot d,E,8
+8,Lopinot d,G,82
+8,Lopinot d,H,13
+8,Lopinot d,L,197
+8,Lopinot d,N,14
+8,Lopinot d,U,49
+9,Lopinot d,A,21
+9,Lopinot d,AE,1
+9,Lopinot d,AG,23
+9,Lopinot d,AL,3
+9,Lopinot d,AP,1
+9,Lopinot d,BB,33
+9,Lopinot d,BV,1
+9,Lopinot d,C,881
+9,Lopinot d,CB,2
+9,Lopinot d,D,64
+9,Lopinot d,E,1
+9,Lopinot d,G,770
+9,Lopinot d,H,10
+9,Lopinot d,L,583
+9,Lopinot d,N,3
+9,Lopinot d,U,78
+10,Lopinot d,A,20
+10,Lopinot d,AE,8
+10,Lopinot d,AG,36
+10,Lopinot d,BB,4
+10,Lopinot d,BV,2
+10,Lopinot d,C,15
+10,Lopinot d,D,1
+10,Lopinot d,G,18
+10,Lopinot d,H,7
+10,Lopinot d,L,265
+10,Lopinot d,U,52
+11,Lopinot d,A,6
+11,Lopinot d,AG,34
+11,Lopinot d,AH,1
+11,Lopinot d,AL,2
+11,Lopinot d,AP,2
+11,Lopinot d,AQ,2
+11,Lopinot d,BD,6
+11,Lopinot d,C,380
+11,Lopinot d,CB,7
+11,Lopinot d,D,96
+11,Lopinot d,E,4
+11,Lopinot d,G,106
+11,Lopinot d,H,5
+11,Lopinot d,L,109
+11,Lopinot d,N,1
+11,Lopinot d,U,177
+12,Lopinot d,A,3
+12,Lopinot d,AE,1
+12,Lopinot d,AG,1
+12,Lopinot d,AQ,1
+12,Lopinot d,BB,1
+12,Lopinot d,BD,1
+12,Lopinot d,C,1
+12,Lopinot d,D,1
+12,Lopinot d,G,378
+12,Lopinot d,H,13
+12,Lopinot d,L,26
+12,Lopinot d,N,1
+12,Lopinot d,U,10
+13,Lopinot d,A,18
+13,Lopinot d,AE,4
+13,Lopinot d,AG,2
+13,Lopinot d,AL,5
+13,Lopinot d,AP,2
+13,Lopinot d,C,21
+13,Lopinot d,D,1
+13,Lopinot d,E,6
+13,Lopinot d,G,884
+13,Lopinot d,H,4
+13,Lopinot d,L,152
+13,Lopinot d,U,28
+14,Lopinot d,A,14
+14,Lopinot d,AE,2
+14,Lopinot d,AG,11
+14,Lopinot d,AL,2
+14,Lopinot d,AP,4
+14,Lopinot d,AQ,3
+14,Lopinot d,BB,2
+14,Lopinot d,BD,5
+14,Lopinot d,C,17
+14,Lopinot d,CB,2
+14,Lopinot d,D,349
+14,Lopinot d,E,3
+14,Lopinot d,G,420
+14,Lopinot d,H,15
+14,Lopinot d,L,19
+14,Lopinot d,U,21
+15,Lopinot d,A,185
+15,Lopinot d,AG,7
+15,Lopinot d,AP,2
+15,Lopinot d,BD,1
+15,Lopinot d,BV,1
+15,Lopinot d,C,2
+15,Lopinot d,G,7
+15,Lopinot d,H,5
+15,Lopinot d,L,48
+15,Lopinot d,N,1
+15,Lopinot d,U,56
+16,Lopinot d,A,71
+16,Lopinot d,AE,4
+16,Lopinot d,AG,2
+16,Lopinot d,AH,3
+16,Lopinot d,AP,7
+16,Lopinot d,BB,4
+16,Lopinot d,BD,1
+16,Lopinot d,C,8
+16,Lopinot d,D,13
+16,Lopinot d,E,24
+16,Lopinot d,G,802
+16,Lopinot d,H,15
+16,Lopinot d,L,58
+16,Lopinot d,U,40
+17,Lopinot d,A,25
+17,Lopinot d,AE,2
+17,Lopinot d,AG,13
+17,Lopinot d,AL,1
+17,Lopinot d,AP,1
+17,Lopinot d,BB,2
+17,Lopinot d,BD,1
+17,Lopinot d,C,20
+17,Lopinot d,D,83
+17,Lopinot d,E,58
+17,Lopinot d,G,345
+17,Lopinot d,H,5
+17,Lopinot d,L,69
+17,Lopinot d,U,31
+18,Lopinot d,A,4
+18,Lopinot d,AG,12
+18,Lopinot d,AP,5
+18,Lopinot d,BB,1
+18,Lopinot d,BD,4
+18,Lopinot d,BK,1
+18,Lopinot d,C,4
+18,Lopinot d,D,5
+18,Lopinot d,E,2
+18,Lopinot d,G,134
+18,Lopinot d,L,2
+18,Lopinot d,N,1
+18,Lopinot d,U,15
+19,Lopinot d,A,10
+19,Lopinot d,AE,1
+19,Lopinot d,AG,34
+19,Lopinot d,AP,1
+19,Lopinot d,AQ,1
+19,Lopinot d,BD,3
+19,Lopinot d,C,9
+19,Lopinot d,CI,1
+19,Lopinot d,D,17
+19,Lopinot d,E,9
+19,Lopinot d,G,47
+19,Lopinot d,H,5
+19,Lopinot d,L,19
+19,Lopinot d,N,4
+19,Lopinot d,U,48
+1,Lopinot u,A,117
+1,Lopinot u,AE,223
+1,Lopinot u,AG,111
+1,Lopinot u,AL,3
+1,Lopinot u,AQ,12
+1,Lopinot u,BB,121
+1,Lopinot u,BT,4
+1,Lopinot u,BV,8
+1,Lopinot u,C,23
+1,Lopinot u,CB,3
+1,Lopinot u,D,71
+1,Lopinot u,E,15
+1,Lopinot u,G,626
+1,Lopinot u,H,145
+1,Lopinot u,L,251
+1,Lopinot u,N,16
+1,Lopinot u,U,526
+2,Lopinot u,A,475
+2,Lopinot u,AE,63
+2,Lopinot u,AG,30
+2,Lopinot u,AL,2
+2,Lopinot u,AP,5
+2,Lopinot u,AQ,8
+2,Lopinot u,BB,20
+2,Lopinot u,BK,1
+2,Lopinot u,BT,3
+2,Lopinot u,BV,9
+2,Lopinot u,C,55
+2,Lopinot u,CB,169
+2,Lopinot u,D,317
+2,Lopinot u,E,183
+2,Lopinot u,G,2627
+2,Lopinot u,H,211
+2,Lopinot u,L,176
+2,Lopinot u,U,461
+3,Lopinot u,A,53
+3,Lopinot u,AE,5
+3,Lopinot u,AG,139
+3,Lopinot u,AL,7
+3,Lopinot u,AP,2
+3,Lopinot u,AQ,2
+3,Lopinot u,BB,7
+3,Lopinot u,BD,1
+3,Lopinot u,C,6
+3,Lopinot u,CB,2
+3,Lopinot u,CC,4
+3,Lopinot u,D,116
+3,Lopinot u,E,523
+3,Lopinot u,G,284
+3,Lopinot u,H,100
+3,Lopinot u,L,93
+3,Lopinot u,U,615
+4,Lopinot u,A,20
+4,Lopinot u,AE,41
+4,Lopinot u,AG,15
+4,Lopinot u,AL,1
+4,Lopinot u,BB,18
+4,Lopinot u,BD,2
+4,Lopinot u,BV,1
+4,Lopinot u,C,1
+4,Lopinot u,E,1
+4,Lopinot u,G,104
+4,Lopinot u,H,105
+4,Lopinot u,L,133
+4,Lopinot u,N,2
+4,Lopinot u,U,30
+5,Lopinot u,A,23
+5,Lopinot u,AE,15
+5,Lopinot u,AG,11
+5,Lopinot u,AL,5
+5,Lopinot u,AQ,2
+5,Lopinot u,BB,10
+5,Lopinot u,BK,1
+5,Lopinot u,C,7
+5,Lopinot u,D,30
+5,Lopinot u,E,6
+5,Lopinot u,G,1403
+5,Lopinot u,H,165
+5,Lopinot u,L,67
+5,Lopinot u,U,24
+6,Lopinot u,A,313
+6,Lopinot u,AE,11
+6,Lopinot u,AG,51
+6,Lopinot u,AL,7
+6,Lopinot u,AP,6
+6,Lopinot u,AQ,27
+6,Lopinot u,BB,6
+6,Lopinot u,BD,11
+6,Lopinot u,BJ,2
+6,Lopinot u,BK,3
+6,Lopinot u,C,28
+6,Lopinot u,D,827
+6,Lopinot u,E,69
+6,Lopinot u,G,585
+6,Lopinot u,H,137
+6,Lopinot u,L,207
+6,Lopinot u,U,334
+7,Lopinot u,A,142
+7,Lopinot u,AE,52
+7,Lopinot u,AG,123
+7,Lopinot u,AH,1
+7,Lopinot u,AL,5
+7,Lopinot u,AP,2
+7,Lopinot u,AQ,11
+7,Lopinot u,BB,9
+7,Lopinot u,BD,1
+7,Lopinot u,BJ,1
+7,Lopinot u,BK,2
+7,Lopinot u,BV,6
+7,Lopinot u,C,34
+7,Lopinot u,CB,3
+7,Lopinot u,D,406
+7,Lopinot u,E,88
+7,Lopinot u,G,137
+7,Lopinot u,H,68
+7,Lopinot u,L,603
+7,Lopinot u,U,371
+8,Lopinot u,A,28
+8,Lopinot u,AE,5
+8,Lopinot u,AG,11
+8,Lopinot u,AL,3
+8,Lopinot u,AQ,3
+8,Lopinot u,BB,9
+8,Lopinot u,BD,2
+8,Lopinot u,BK,2
+8,Lopinot u,BV,3
+8,Lopinot u,C,12
+8,Lopinot u,D,21
+8,Lopinot u,E,4
+8,Lopinot u,G,177
+8,Lopinot u,H,83
+8,Lopinot u,L,297
+8,Lopinot u,N,2
+8,Lopinot u,U,81
+9,Lopinot u,A,143
+9,Lopinot u,AE,28
+9,Lopinot u,AG,2
+9,Lopinot u,AL,12
+9,Lopinot u,AP,5
+9,Lopinot u,AQ,1
+9,Lopinot u,BB,11
+9,Lopinot u,BJ,25
+9,Lopinot u,BK,1
+9,Lopinot u,BV,4
+9,Lopinot u,C,12
+9,Lopinot u,CB,10
+9,Lopinot u,D,57
+9,Lopinot u,E,11
+9,Lopinot u,G,730
+9,Lopinot u,H,190
+9,Lopinot u,L,520
+9,Lopinot u,N,4
+9,Lopinot u,U,39
+10,Lopinot u,A,313
+10,Lopinot u,AE,64
+10,Lopinot u,AG,51
+10,Lopinot u,AL,1
+10,Lopinot u,AP,3
+10,Lopinot u,AQ,23
+10,Lopinot u,BB,57
+10,Lopinot u,BD,1
+10,Lopinot u,BJ,1
+10,Lopinot u,BK,1
+10,Lopinot u,BV,15
+10,Lopinot u,C,78
+10,Lopinot u,D,23
+10,Lopinot u,E,16
+10,Lopinot u,G,382
+10,Lopinot u,H,93
+10,Lopinot u,L,1228
+10,Lopinot u,N,4
+10,Lopinot u,U,168
+11,Lopinot u,A,147
+11,Lopinot u,AE,9
+11,Lopinot u,AG,73
+11,Lopinot u,AL,2
+11,Lopinot u,AP,1
+11,Lopinot u,AQ,10
+11,Lopinot u,BB,11
+11,Lopinot u,BV,11
+11,Lopinot u,C,72
+11,Lopinot u,D,163
+11,Lopinot u,E,50
+11,Lopinot u,G,179
+11,Lopinot u,H,37
+11,Lopinot u,L,780
+11,Lopinot u,U,198
+12,Lopinot u,A,57
+12,Lopinot u,AE,9
+12,Lopinot u,AG,6
+12,Lopinot u,AL,1
+12,Lopinot u,AP,2
+12,Lopinot u,AQ,3
+12,Lopinot u,BB,7
+12,Lopinot u,BD,4
+12,Lopinot u,BJ,3
+12,Lopinot u,BK,1
+12,Lopinot u,C,8
+12,Lopinot u,D,2
+12,Lopinot u,G,328
+12,Lopinot u,H,44
+12,Lopinot u,L,170
+12,Lopinot u,U,38
+13,Lopinot u,A,8
+13,Lopinot u,AE,2
+13,Lopinot u,AG,6
+13,Lopinot u,AH,1
+13,Lopinot u,AL,4
+13,Lopinot u,C,3
+13,Lopinot u,D,8
+13,Lopinot u,E,2
+13,Lopinot u,G,120
+13,Lopinot u,H,14
+13,Lopinot u,L,70
+13,Lopinot u,U,26
+14,Lopinot u,A,39
+14,Lopinot u,AE,9
+14,Lopinot u,AG,48
+14,Lopinot u,AL,3
+14,Lopinot u,AP,9
+14,Lopinot u,AQ,6
+14,Lopinot u,BB,12
+14,Lopinot u,BD,5
+14,Lopinot u,BT,1
+14,Lopinot u,C,24
+14,Lopinot u,CB,2
+14,Lopinot u,D,365
+14,Lopinot u,E,19
+14,Lopinot u,G,798
+14,Lopinot u,H,30
+14,Lopinot u,L,123
+14,Lopinot u,U,56
+15,Lopinot u,A,3
+15,Lopinot u,AG,2
+15,Lopinot u,AM,1
+15,Lopinot u,D,1
+15,Lopinot u,E,2
+15,Lopinot u,G,18
+15,Lopinot u,H,43
+15,Lopinot u,L,24
+15,Lopinot u,N,4
+15,Lopinot u,U,8
+16,Lopinot u,A,11
+16,Lopinot u,AE,216
+16,Lopinot u,AG,20
+16,Lopinot u,AL,1
+16,Lopinot u,AP,1
+16,Lopinot u,AQ,3
+16,Lopinot u,BB,88
+16,Lopinot u,BJ,2
+16,Lopinot u,BV,4
+16,Lopinot u,C,28
+16,Lopinot u,D,65
+16,Lopinot u,E,17
+16,Lopinot u,G,684
+16,Lopinot u,H,86
+16,Lopinot u,L,382
+16,Lopinot u,N,1
+16,Lopinot u,U,46
+17,Lopinot u,A,12
+17,Lopinot u,AE,23
+17,Lopinot u,AG,14
+17,Lopinot u,AP,2
+17,Lopinot u,AQ,1
+17,Lopinot u,BB,13
+17,Lopinot u,BJ,1
+17,Lopinot u,BK,3
+17,Lopinot u,C,232
+17,Lopinot u,D,153
+17,Lopinot u,E,79
+17,Lopinot u,G,791
+17,Lopinot u,H,71
+17,Lopinot u,L,110
+17,Lopinot u,U,144
+18,Lopinot u,A,49
+18,Lopinot u,AE,20
+18,Lopinot u,AG,25
+18,Lopinot u,AL,1
+18,Lopinot u,AP,1
+18,Lopinot u,AQ,2
+18,Lopinot u,BB,18
+18,Lopinot u,BD,10
+18,Lopinot u,BK,2
+18,Lopinot u,C,26
+18,Lopinot u,D,27
+18,Lopinot u,E,18
+18,Lopinot u,G,476
+18,Lopinot u,H,108
+18,Lopinot u,L,709
+18,Lopinot u,N,2
+18,Lopinot u,U,143
+19,Lopinot u,A,17
+19,Lopinot u,AE,13
+19,Lopinot u,AG,46
+19,Lopinot u,AQ,3
+19,Lopinot u,BB,13
+19,Lopinot u,BD,1
+19,Lopinot u,BK,1
+19,Lopinot u,C,27
+19,Lopinot u,CI,1
+19,Lopinot u,D,21
+19,Lopinot u,E,37
+19,Lopinot u,G,114
+19,Lopinot u,H,33
+19,Lopinot u,L,118
+19,Lopinot u,N,4
+19,Lopinot u,U,116
+1,Lower Aripo d,A,2
+1,Lower Aripo d,AE,1
+1,Lower Aripo d,AG,36
+1,Lower Aripo d,AQ,9
+1,Lower Aripo d,BB,8
+1,Lower Aripo d,BD,3
+1,Lower Aripo d,BV,12
+1,Lower Aripo d,C,20
+1,Lower Aripo d,CB,7
+1,Lower Aripo d,CI,1
+1,Lower Aripo d,G,3264
+1,Lower Aripo d,H,32
+1,Lower Aripo d,L,49
+1,Lower Aripo d,N,20
+1,Lower Aripo d,U,219
+2,Lower Aripo d,A,15
+2,Lower Aripo d,AE,1
+2,Lower Aripo d,AG,11
+2,Lower Aripo d,AH,1
+2,Lower Aripo d,AL,1
+2,Lower Aripo d,AP,1
+2,Lower Aripo d,AQ,1
+2,Lower Aripo d,BD,14
+2,Lower Aripo d,BV,2
+2,Lower Aripo d,C,29
+2,Lower Aripo d,D,16
+2,Lower Aripo d,E,1
+2,Lower Aripo d,G,1270
+2,Lower Aripo d,H,46
+2,Lower Aripo d,L,7
+2,Lower Aripo d,N,21
+2,Lower Aripo d,U,43
+3,Lower Aripo d,A,2
+3,Lower Aripo d,AG,10
+3,Lower Aripo d,AL,1
+3,Lower Aripo d,AQ,12
+3,Lower Aripo d,BD,2
+3,Lower Aripo d,BK,1
+3,Lower Aripo d,C,1
+3,Lower Aripo d,G,2007
+3,Lower Aripo d,H,2
+3,Lower Aripo d,L,4
+3,Lower Aripo d,N,2
+3,Lower Aripo d,U,9
+4,Lower Aripo d,A,17
+4,Lower Aripo d,AG,10
+4,Lower Aripo d,AL,1
+4,Lower Aripo d,AP,1
+4,Lower Aripo d,AQ,1
+4,Lower Aripo d,BD,4
+4,Lower Aripo d,BK,1
+4,Lower Aripo d,C,4
+4,Lower Aripo d,G,114
+4,Lower Aripo d,H,2
+4,Lower Aripo d,L,12
+4,Lower Aripo d,N,2
+4,Lower Aripo d,U,38
+5,Lower Aripo d,A,18
+5,Lower Aripo d,AG,31
+5,Lower Aripo d,AL,3
+5,Lower Aripo d,AP,3
+5,Lower Aripo d,AQ,9
+5,Lower Aripo d,AV,1
+5,Lower Aripo d,BD,4
+5,Lower Aripo d,BK,2
+5,Lower Aripo d,BV,4
+5,Lower Aripo d,C,7
+5,Lower Aripo d,CB,2
+5,Lower Aripo d,G,1392
+5,Lower Aripo d,H,54
+5,Lower Aripo d,L,11
+5,Lower Aripo d,N,8
+5,Lower Aripo d,U,73
+6,Lower Aripo d,A,14
+6,Lower Aripo d,AG,4
+6,Lower Aripo d,AV,1
+6,Lower Aripo d,BD,8
+6,Lower Aripo d,C,3
+6,Lower Aripo d,E,1
+6,Lower Aripo d,G,189
+6,Lower Aripo d,H,3
+6,Lower Aripo d,L,7
+6,Lower Aripo d,U,21
+7,Lower Aripo d,A,5
+7,Lower Aripo d,AG,60
+7,Lower Aripo d,AL,1
+7,Lower Aripo d,AP,2
+7,Lower Aripo d,BD,12
+7,Lower Aripo d,BK,4
+7,Lower Aripo d,BV,4
+7,Lower Aripo d,C,25
+7,Lower Aripo d,CB,1
+7,Lower Aripo d,D,1
+7,Lower Aripo d,E,19
+7,Lower Aripo d,G,236
+7,Lower Aripo d,H,5
+7,Lower Aripo d,L,7
+7,Lower Aripo d,N,9
+7,Lower Aripo d,U,8
+8,Lower Aripo d,A,20
+8,Lower Aripo d,AG,5
+8,Lower Aripo d,BD,18
+8,Lower Aripo d,BK,3
+8,Lower Aripo d,BV,1
+8,Lower Aripo d,C,4
+8,Lower Aripo d,CB,2
+8,Lower Aripo d,G,93
+8,Lower Aripo d,H,9
+8,Lower Aripo d,L,28
+8,Lower Aripo d,U,102
+9,Lower Aripo d,A,2
+9,Lower Aripo d,AG,3
+9,Lower Aripo d,AL,2
+9,Lower Aripo d,AP,2
+9,Lower Aripo d,BK,15
+9,Lower Aripo d,BT,3
+9,Lower Aripo d,BV,8
+9,Lower Aripo d,C,3
+9,Lower Aripo d,CB,1
+9,Lower Aripo d,G,66
+9,Lower Aripo d,H,11
+9,Lower Aripo d,L,7
+9,Lower Aripo d,N,3
+9,Lower Aripo d,U,2
+10,Lower Aripo d,A,9
+10,Lower Aripo d,AE,1
+10,Lower Aripo d,AG,2
+10,Lower Aripo d,AL,2
+10,Lower Aripo d,AP,2
+10,Lower Aripo d,AQ,2
+10,Lower Aripo d,BD,11
+10,Lower Aripo d,BV,2
+10,Lower Aripo d,C,1
+10,Lower Aripo d,D,1
+10,Lower Aripo d,E,1
+10,Lower Aripo d,G,16
+10,Lower Aripo d,H,1
+10,Lower Aripo d,L,11
+10,Lower Aripo d,N,5
+10,Lower Aripo d,U,17
+11,Lower Aripo d,A,6
+11,Lower Aripo d,AG,1
+11,Lower Aripo d,AQ,10
+11,Lower Aripo d,AV,1
+11,Lower Aripo d,BD,6
+11,Lower Aripo d,BV,4
+11,Lower Aripo d,C,1
+11,Lower Aripo d,E,2
+11,Lower Aripo d,G,649
+11,Lower Aripo d,H,17
+11,Lower Aripo d,L,6
+11,Lower Aripo d,N,4
+11,Lower Aripo d,U,5
+12,Lower Aripo d,A,5
+12,Lower Aripo d,AG,6
+12,Lower Aripo d,AL,1
+12,Lower Aripo d,AP,1
+12,Lower Aripo d,AQ,1
+12,Lower Aripo d,AV,1
+12,Lower Aripo d,BD,2
+12,Lower Aripo d,BJ,1
+12,Lower Aripo d,BV,3
+12,Lower Aripo d,C,2
+12,Lower Aripo d,E,1
+12,Lower Aripo d,G,187
+12,Lower Aripo d,H,4
+12,Lower Aripo d,L,20
+12,Lower Aripo d,N,1
+12,Lower Aripo d,U,5
+13,Lower Aripo d,A,25
+13,Lower Aripo d,AG,15
+13,Lower Aripo d,AL,2
+13,Lower Aripo d,AP,1
+13,Lower Aripo d,AV,3
+13,Lower Aripo d,BD,147
+13,Lower Aripo d,BJ,1
+13,Lower Aripo d,BK,1
+13,Lower Aripo d,BV,5
+13,Lower Aripo d,C,5
+13,Lower Aripo d,E,10
+13,Lower Aripo d,G,237
+13,Lower Aripo d,H,9
+13,Lower Aripo d,L,14
+13,Lower Aripo d,N,8
+13,Lower Aripo d,U,70
+14,Lower Aripo d,A,43
+14,Lower Aripo d,AE,1
+14,Lower Aripo d,AG,12
+14,Lower Aripo d,AL,1
+14,Lower Aripo d,AP,2
+14,Lower Aripo d,AQ,2
+14,Lower Aripo d,BD,85
+14,Lower Aripo d,BT,1
+14,Lower Aripo d,BV,7
+14,Lower Aripo d,C,2
+14,Lower Aripo d,CB,2
+14,Lower Aripo d,CI,1
+14,Lower Aripo d,D,1
+14,Lower Aripo d,E,6
+14,Lower Aripo d,G,101
+14,Lower Aripo d,H,6
+14,Lower Aripo d,L,11
+14,Lower Aripo d,N,4
+14,Lower Aripo d,U,36
+15,Lower Aripo d,A,2
+15,Lower Aripo d,AG,42
+15,Lower Aripo d,AQ,3
+15,Lower Aripo d,BD,11
+15,Lower Aripo d,C,11
+15,Lower Aripo d,CB,1
+15,Lower Aripo d,E,1
+15,Lower Aripo d,G,227
+15,Lower Aripo d,H,11
+15,Lower Aripo d,L,5
+15,Lower Aripo d,N,78
+15,Lower Aripo d,U,70
+16,Lower Aripo d,A,45
+16,Lower Aripo d,AG,26
+16,Lower Aripo d,AQ,5
+16,Lower Aripo d,BB,1
+16,Lower Aripo d,BD,13
+16,Lower Aripo d,BK,6
+16,Lower Aripo d,BT,1
+16,Lower Aripo d,BV,1
+16,Lower Aripo d,C,15
+16,Lower Aripo d,CI,1
+16,Lower Aripo d,G,275
+16,Lower Aripo d,H,16
+16,Lower Aripo d,L,13
+16,Lower Aripo d,U,17
+17,Lower Aripo d,A,45
+17,Lower Aripo d,AG,5
+17,Lower Aripo d,AP,12
+17,Lower Aripo d,BD,190
+17,Lower Aripo d,BK,1
+17,Lower Aripo d,BV,1
+17,Lower Aripo d,C,4
+17,Lower Aripo d,E,1
+17,Lower Aripo d,G,232
+17,Lower Aripo d,H,9
+17,Lower Aripo d,L,11
+17,Lower Aripo d,N,16
+17,Lower Aripo d,U,69
+18,Lower Aripo d,A,6
+18,Lower Aripo d,AG,8
+18,Lower Aripo d,AP,3
+18,Lower Aripo d,BD,75
+18,Lower Aripo d,C,3
+18,Lower Aripo d,CI,1
+18,Lower Aripo d,E,2
+18,Lower Aripo d,G,145
+18,Lower Aripo d,H,4
+18,Lower Aripo d,L,12
+18,Lower Aripo d,N,27
+18,Lower Aripo d,U,27
+19,Lower Aripo d,A,1
+19,Lower Aripo d,AG,6
+19,Lower Aripo d,BD,10
+19,Lower Aripo d,BK,1
+19,Lower Aripo d,C,2
+19,Lower Aripo d,E,7
+19,Lower Aripo d,G,300
+19,Lower Aripo d,H,3
+19,Lower Aripo d,L,1
+19,Lower Aripo d,N,61
+19,Lower Aripo d,U,52
+1,Lower Aripo u,A,5
+1,Lower Aripo u,AE,1
+1,Lower Aripo u,AG,30
+1,Lower Aripo u,AP,3
+1,Lower Aripo u,AQ,5
+1,Lower Aripo u,BB,3
+1,Lower Aripo u,BK,1
+1,Lower Aripo u,BV,3
+1,Lower Aripo u,C,11
+1,Lower Aripo u,CB,5
+1,Lower Aripo u,CI,1
+1,Lower Aripo u,E,1
+1,Lower Aripo u,G,1267
+1,Lower Aripo u,H,14
+1,Lower Aripo u,L,11
+1,Lower Aripo u,N,5
+1,Lower Aripo u,U,47
+2,Lower Aripo u,A,23
+2,Lower Aripo u,AE,1
+2,Lower Aripo u,AG,44
+2,Lower Aripo u,AP,2
+2,Lower Aripo u,AQ,27
+2,Lower Aripo u,BD,53
+2,Lower Aripo u,BV,2
+2,Lower Aripo u,C,6
+2,Lower Aripo u,D,1
+2,Lower Aripo u,E,6
+2,Lower Aripo u,G,474
+2,Lower Aripo u,H,3
+2,Lower Aripo u,L,14
+2,Lower Aripo u,N,11
+2,Lower Aripo u,U,121
+3,Lower Aripo u,A,3
+3,Lower Aripo u,AG,13
+3,Lower Aripo u,AQ,9
+3,Lower Aripo u,BD,2
+3,Lower Aripo u,BK,1
+3,Lower Aripo u,C,2
+3,Lower Aripo u,G,524
+3,Lower Aripo u,H,7
+3,Lower Aripo u,L,3
+3,Lower Aripo u,N,7
+3,Lower Aripo u,U,12
+4,Lower Aripo u,A,34
+4,Lower Aripo u,AG,37
+4,Lower Aripo u,AL,3
+4,Lower Aripo u,AP,1
+4,Lower Aripo u,AQ,5
+4,Lower Aripo u,BD,3
+4,Lower Aripo u,BK,2
+4,Lower Aripo u,C,2
+4,Lower Aripo u,E,1
+4,Lower Aripo u,G,117
+4,Lower Aripo u,H,8
+4,Lower Aripo u,L,18
+4,Lower Aripo u,N,1
+4,Lower Aripo u,U,30
+5,Lower Aripo u,A,33
+5,Lower Aripo u,AE,2
+5,Lower Aripo u,AG,32
+5,Lower Aripo u,AL,1
+5,Lower Aripo u,AP,6
+5,Lower Aripo u,AQ,18
+5,Lower Aripo u,AV,4
+5,Lower Aripo u,BB,2
+5,Lower Aripo u,BD,15
+5,Lower Aripo u,BJ,1
+5,Lower Aripo u,BK,1
+5,Lower Aripo u,BV,3
+5,Lower Aripo u,C,5
+5,Lower Aripo u,CB,2
+5,Lower Aripo u,CC,1
+5,Lower Aripo u,E,1
+5,Lower Aripo u,G,784
+5,Lower Aripo u,H,15
+5,Lower Aripo u,L,8
+5,Lower Aripo u,U,34
+6,Lower Aripo u,A,7
+6,Lower Aripo u,AG,2
+6,Lower Aripo u,AQ,4
+6,Lower Aripo u,BD,2
+6,Lower Aripo u,C,3
+6,Lower Aripo u,D,1
+6,Lower Aripo u,E,1
+6,Lower Aripo u,G,66
+6,Lower Aripo u,H,11
+6,Lower Aripo u,L,2
+6,Lower Aripo u,U,15
+7,Lower Aripo u,A,20
+7,Lower Aripo u,AG,13
+7,Lower Aripo u,AP,1
+7,Lower Aripo u,AQ,1
+7,Lower Aripo u,BB,1
+7,Lower Aripo u,BD,6
+7,Lower Aripo u,BK,2
+7,Lower Aripo u,C,1
+7,Lower Aripo u,CB,11
+7,Lower Aripo u,G,44
+7,Lower Aripo u,H,7
+7,Lower Aripo u,L,3
+7,Lower Aripo u,U,14
+8,Lower Aripo u,A,73
+8,Lower Aripo u,AG,5
+8,Lower Aripo u,AL,4
+8,Lower Aripo u,AP,2
+8,Lower Aripo u,AQ,4
+8,Lower Aripo u,BD,50
+8,Lower Aripo u,BJ,1
+8,Lower Aripo u,BK,4
+8,Lower Aripo u,BV,2
+8,Lower Aripo u,C,2
+8,Lower Aripo u,CB,3
+8,Lower Aripo u,E,1
+8,Lower Aripo u,G,44
+8,Lower Aripo u,H,88
+8,Lower Aripo u,L,23
+8,Lower Aripo u,N,6
+8,Lower Aripo u,U,48
+9,Lower Aripo u,A,9
+9,Lower Aripo u,AG,3
+9,Lower Aripo u,AL,7
+9,Lower Aripo u,AP,1
+9,Lower Aripo u,AQ,1
+9,Lower Aripo u,BK,2
+9,Lower Aripo u,BT,1
+9,Lower Aripo u,CB,1
+9,Lower Aripo u,CI,1
+9,Lower Aripo u,D,2
+9,Lower Aripo u,E,1
+9,Lower Aripo u,G,38
+9,Lower Aripo u,H,92
+9,Lower Aripo u,L,7
+9,Lower Aripo u,N,1
+9,Lower Aripo u,U,2
+10,Lower Aripo u,A,7
+10,Lower Aripo u,AE,1
+10,Lower Aripo u,AG,9
+10,Lower Aripo u,AL,3
+10,Lower Aripo u,AP,3
+10,Lower Aripo u,AQ,2
+10,Lower Aripo u,BB,2
+10,Lower Aripo u,BD,42
+10,Lower Aripo u,BJ,1
+10,Lower Aripo u,BV,1
+10,Lower Aripo u,C,7
+10,Lower Aripo u,G,37
+10,Lower Aripo u,H,4
+10,Lower Aripo u,L,21
+10,Lower Aripo u,N,9
+10,Lower Aripo u,U,40
+11,Lower Aripo u,A,63
+11,Lower Aripo u,AG,28
+11,Lower Aripo u,AL,5
+11,Lower Aripo u,AP,5
+11,Lower Aripo u,AQ,96
+11,Lower Aripo u,AV,4
+11,Lower Aripo u,BD,23
+11,Lower Aripo u,BJ,2
+11,Lower Aripo u,BK,1
+11,Lower Aripo u,BT,1
+11,Lower Aripo u,BV,3
+11,Lower Aripo u,C,6
+11,Lower Aripo u,CB,16
+11,Lower Aripo u,D,8
+11,Lower Aripo u,E,8
+11,Lower Aripo u,G,335
+11,Lower Aripo u,H,21
+11,Lower Aripo u,L,32
+11,Lower Aripo u,N,6
+11,Lower Aripo u,U,110
+12,Lower Aripo u,A,3
+12,Lower Aripo u,AE,1
+12,Lower Aripo u,AG,5
+12,Lower Aripo u,AL,1
+12,Lower Aripo u,BD,1
+12,Lower Aripo u,BK,2
+12,Lower Aripo u,BV,1
+12,Lower Aripo u,C,3
+12,Lower Aripo u,G,61
+12,Lower Aripo u,H,22
+12,Lower Aripo u,L,2
+12,Lower Aripo u,U,3
+13,Lower Aripo u,A,21
+13,Lower Aripo u,AG,10
+13,Lower Aripo u,AL,9
+13,Lower Aripo u,AP,4
+13,Lower Aripo u,AQ,8
+13,Lower Aripo u,AV,13
+13,Lower Aripo u,BD,10
+13,Lower Aripo u,BK,2
+13,Lower Aripo u,BT,7
+13,Lower Aripo u,BV,4
+13,Lower Aripo u,C,9
+13,Lower Aripo u,CB,4
+13,Lower Aripo u,E,6
+13,Lower Aripo u,G,443
+13,Lower Aripo u,H,68
+13,Lower Aripo u,L,21
+13,Lower Aripo u,N,1
+13,Lower Aripo u,U,46
+14,Lower Aripo u,A,112
+14,Lower Aripo u,AG,3
+14,Lower Aripo u,AL,2
+14,Lower Aripo u,AP,10
+14,Lower Aripo u,AQ,79
+14,Lower Aripo u,AV,4
+14,Lower Aripo u,BD,399
+14,Lower Aripo u,BJ,8
+14,Lower Aripo u,BT,1
+14,Lower Aripo u,BV,4
+14,Lower Aripo u,C,15
+14,Lower Aripo u,CB,19
+14,Lower Aripo u,CI,2
+14,Lower Aripo u,D,14
+14,Lower Aripo u,E,10
+14,Lower Aripo u,G,95
+14,Lower Aripo u,H,19
+14,Lower Aripo u,L,62
+14,Lower Aripo u,N,10
+14,Lower Aripo u,U,93
+15,Lower Aripo u,A,10
+15,Lower Aripo u,AG,50
+15,Lower Aripo u,AP,4
+15,Lower Aripo u,AQ,3
+15,Lower Aripo u,BD,4
+15,Lower Aripo u,BJ,2
+15,Lower Aripo u,C,4
+15,Lower Aripo u,CB,1
+15,Lower Aripo u,CI,1
+15,Lower Aripo u,E,11
+15,Lower Aripo u,G,162
+15,Lower Aripo u,H,35
+15,Lower Aripo u,L,14
+15,Lower Aripo u,N,38
+15,Lower Aripo u,U,60
+16,Lower Aripo u,A,40
+16,Lower Aripo u,AE,2
+16,Lower Aripo u,AG,96
+16,Lower Aripo u,AL,2
+16,Lower Aripo u,AP,1
+16,Lower Aripo u,AQ,10
+16,Lower Aripo u,BB,3
+16,Lower Aripo u,BD,43
+16,Lower Aripo u,BK,1
+16,Lower Aripo u,BT,2
+16,Lower Aripo u,BV,2
+16,Lower Aripo u,C,18
+16,Lower Aripo u,CB,2
+16,Lower Aripo u,E,12
+16,Lower Aripo u,G,154
+16,Lower Aripo u,H,17
+16,Lower Aripo u,L,33
+16,Lower Aripo u,N,2
+16,Lower Aripo u,U,23
+17,Lower Aripo u,A,16
+17,Lower Aripo u,AG,6
+17,Lower Aripo u,AL,3
+17,Lower Aripo u,AP,6
+17,Lower Aripo u,AQ,4
+17,Lower Aripo u,AV,5
+17,Lower Aripo u,BD,6
+17,Lower Aripo u,BK,2
+17,Lower Aripo u,BV,3
+17,Lower Aripo u,C,10
+17,Lower Aripo u,CI,1
+17,Lower Aripo u,E,4
+17,Lower Aripo u,G,191
+17,Lower Aripo u,H,25
+17,Lower Aripo u,L,26
+17,Lower Aripo u,N,5
+17,Lower Aripo u,U,17
+18,Lower Aripo u,A,45
+18,Lower Aripo u,AE,2
+18,Lower Aripo u,AG,6
+18,Lower Aripo u,AP,10
+18,Lower Aripo u,AQ,46
+18,Lower Aripo u,AV,1
+18,Lower Aripo u,BD,57
+18,Lower Aripo u,BV,1
+18,Lower Aripo u,C,11
+18,Lower Aripo u,D,1
+18,Lower Aripo u,E,16
+18,Lower Aripo u,G,234
+18,Lower Aripo u,H,32
+18,Lower Aripo u,L,82
+18,Lower Aripo u,N,3
+18,Lower Aripo u,U,24
+19,Lower Aripo u,A,4
+19,Lower Aripo u,AG,12
+19,Lower Aripo u,AP,1
+19,Lower Aripo u,AQ,1
+19,Lower Aripo u,BD,1
+19,Lower Aripo u,C,1
+19,Lower Aripo u,G,61
+19,Lower Aripo u,H,32
+19,Lower Aripo u,L,8
+19,Lower Aripo u,N,21
+19,Lower Aripo u,U,25
+1,Maracas d,A,124
+1,Maracas d,AE,13
+1,Maracas d,AG,70
+1,Maracas d,AL,8
+1,Maracas d,AP,3
+1,Maracas d,AQ,5
+1,Maracas d,BB,11
+1,Maracas d,BJ,1
+1,Maracas d,BT,6
+1,Maracas d,BV,2
+1,Maracas d,C,239
+1,Maracas d,CB,10
+1,Maracas d,CC,1
+1,Maracas d,CI,1
+1,Maracas d,E,11
+1,Maracas d,G,668
+1,Maracas d,H,269
+1,Maracas d,L,159
+1,Maracas d,N,34
+1,Maracas d,U,300
+2,Maracas d,A,22
+2,Maracas d,AE,1
+2,Maracas d,AG,42
+2,Maracas d,AL,66
+2,Maracas d,AP,1
+2,Maracas d,AQ,1
+2,Maracas d,BB,4
+2,Maracas d,BD,9
+2,Maracas d,BJ,3
+2,Maracas d,BK,1
+2,Maracas d,BV,1
+2,Maracas d,C,24
+2,Maracas d,D,1
+2,Maracas d,G,85
+2,Maracas d,H,298
+2,Maracas d,L,26
+2,Maracas d,N,5
+2,Maracas d,U,77
+3,Maracas d,A,95
+3,Maracas d,AE,35
+3,Maracas d,AG,746
+3,Maracas d,AL,10
+3,Maracas d,AQ,2
+3,Maracas d,BB,7
+3,Maracas d,BD,9
+3,Maracas d,BJ,1
+3,Maracas d,BK,1
+3,Maracas d,BV,3
+3,Maracas d,C,13
+3,Maracas d,CC,1
+3,Maracas d,G,1
+3,Maracas d,H,65
+3,Maracas d,L,626
+3,Maracas d,N,1
+3,Maracas d,U,572
+4,Maracas d,A,75
+4,Maracas d,AE,3
+4,Maracas d,AG,12
+4,Maracas d,AL,6
+4,Maracas d,AQ,2
+4,Maracas d,BB,4
+4,Maracas d,BD,13
+4,Maracas d,BK,1
+4,Maracas d,BV,3
+4,Maracas d,C,19
+4,Maracas d,CI,1
+4,Maracas d,E,1
+4,Maracas d,G,52
+4,Maracas d,H,150
+4,Maracas d,L,780
+4,Maracas d,N,3
+4,Maracas d,U,178
+5,Maracas d,A,6
+5,Maracas d,AE,1
+5,Maracas d,AG,1
+5,Maracas d,AL,6
+5,Maracas d,AQ,2
+5,Maracas d,BB,11
+5,Maracas d,BK,1
+5,Maracas d,BV,2
+5,Maracas d,C,5
+5,Maracas d,CB,1
+5,Maracas d,D,1
+5,Maracas d,G,203
+5,Maracas d,H,260
+5,Maracas d,L,57
+5,Maracas d,N,2
+5,Maracas d,U,49
+6,Maracas d,A,152
+6,Maracas d,AG,88
+6,Maracas d,AL,163
+6,Maracas d,AM,1
+6,Maracas d,AP,13
+6,Maracas d,AQ,73
+6,Maracas d,BB,2
+6,Maracas d,BD,1
+6,Maracas d,BJ,8
+6,Maracas d,BK,5
+6,Maracas d,BV,2
+6,Maracas d,C,227
+6,Maracas d,D,6
+6,Maracas d,E,26
+6,Maracas d,G,112
+6,Maracas d,H,542
+6,Maracas d,L,130
+6,Maracas d,N,2
+6,Maracas d,U,125
+7,Maracas d,A,34
+7,Maracas d,AG,71
+7,Maracas d,AL,153
+7,Maracas d,AP,6
+7,Maracas d,AQ,37
+7,Maracas d,BB,15
+7,Maracas d,BD,8
+7,Maracas d,BJ,4
+7,Maracas d,BK,7
+7,Maracas d,BV,2
+7,Maracas d,C,228
+7,Maracas d,CB,4
+7,Maracas d,E,7
+7,Maracas d,G,42
+7,Maracas d,H,145
+7,Maracas d,L,61
+7,Maracas d,N,1
+7,Maracas d,U,21
+8,Maracas d,A,36
+8,Maracas d,AE,4
+8,Maracas d,AG,4
+8,Maracas d,AH,1
+8,Maracas d,AL,31
+8,Maracas d,AP,1
+8,Maracas d,AQ,4
+8,Maracas d,BB,1
+8,Maracas d,BD,1
+8,Maracas d,BJ,2
+8,Maracas d,BK,1
+8,Maracas d,C,45
+8,Maracas d,CB,5
+8,Maracas d,G,77
+8,Maracas d,H,594
+8,Maracas d,L,55
+8,Maracas d,N,2
+8,Maracas d,U,45
+9,Maracas d,A,48
+9,Maracas d,AG,50
+9,Maracas d,AL,9
+9,Maracas d,AM,2
+9,Maracas d,BB,9
+9,Maracas d,BJ,3
+9,Maracas d,BK,6
+9,Maracas d,BT,2
+9,Maracas d,BV,1
+9,Maracas d,C,118
+9,Maracas d,CB,1
+9,Maracas d,D,1
+9,Maracas d,E,12
+9,Maracas d,G,170
+9,Maracas d,H,937
+9,Maracas d,L,164
+9,Maracas d,N,4
+9,Maracas d,U,48
+10,Maracas d,A,181
+10,Maracas d,AE,9
+10,Maracas d,AG,52
+10,Maracas d,AL,5
+10,Maracas d,AQ,6
+10,Maracas d,BB,3
+10,Maracas d,BD,7
+10,Maracas d,BJ,2
+10,Maracas d,BV,6
+10,Maracas d,C,57
+10,Maracas d,E,2
+10,Maracas d,G,5
+10,Maracas d,H,98
+10,Maracas d,L,237
+10,Maracas d,N,3
+10,Maracas d,U,77
+11,Maracas d,A,4
+11,Maracas d,AG,49
+11,Maracas d,AL,5
+11,Maracas d,BD,2
+11,Maracas d,BJ,2
+11,Maracas d,BK,1
+11,Maracas d,BT,14
+11,Maracas d,BV,1
+11,Maracas d,C,16
+11,Maracas d,CB,2
+11,Maracas d,E,1
+11,Maracas d,G,44
+11,Maracas d,H,208
+11,Maracas d,L,18
+11,Maracas d,N,6
+11,Maracas d,U,29
+12,Maracas d,A,5
+12,Maracas d,AG,72
+12,Maracas d,AL,6
+12,Maracas d,AP,1
+12,Maracas d,AQ,1
+12,Maracas d,BD,2
+12,Maracas d,BK,2
+12,Maracas d,BT,1
+12,Maracas d,C,442
+12,Maracas d,D,1
+12,Maracas d,E,10
+12,Maracas d,G,34
+12,Maracas d,H,171
+12,Maracas d,L,10
+12,Maracas d,N,1
+12,Maracas d,U,164
+13,Maracas d,A,25
+13,Maracas d,AE,3
+13,Maracas d,AG,76
+13,Maracas d,AL,8
+13,Maracas d,AQ,2
+13,Maracas d,BB,3
+13,Maracas d,BJ,1
+13,Maracas d,BT,1
+13,Maracas d,C,12
+13,Maracas d,D,1
+13,Maracas d,E,4
+13,Maracas d,G,243
+13,Maracas d,H,356
+13,Maracas d,L,61
+13,Maracas d,N,1
+13,Maracas d,U,54
+14,Maracas d,A,25
+14,Maracas d,AE,1
+14,Maracas d,AG,152
+14,Maracas d,AL,31
+14,Maracas d,AM,1
+14,Maracas d,AQ,14
+14,Maracas d,BD,4
+14,Maracas d,BJ,5
+14,Maracas d,BK,2
+14,Maracas d,C,60
+14,Maracas d,CB,55
+14,Maracas d,E,82
+14,Maracas d,G,100
+14,Maracas d,H,203
+14,Maracas d,L,48
+14,Maracas d,N,3
+14,Maracas d,U,63
+15,Maracas d,A,49
+15,Maracas d,AE,2
+15,Maracas d,AG,368
+15,Maracas d,AL,7
+15,Maracas d,AP,3
+15,Maracas d,AQ,15
+15,Maracas d,BB,1
+15,Maracas d,BD,1
+15,Maracas d,BJ,2
+15,Maracas d,BK,1
+15,Maracas d,BT,1
+15,Maracas d,BV,7
+15,Maracas d,C,63
+15,Maracas d,CB,2
+15,Maracas d,E,2
+15,Maracas d,G,39
+15,Maracas d,H,778
+15,Maracas d,L,85
+15,Maracas d,N,123
+15,Maracas d,U,106
+16,Maracas d,A,34
+16,Maracas d,AE,4
+16,Maracas d,AG,103
+16,Maracas d,AL,43
+16,Maracas d,AP,2
+16,Maracas d,AQ,6
+16,Maracas d,AV,1
+16,Maracas d,BB,5
+16,Maracas d,BD,3
+16,Maracas d,BJ,2
+16,Maracas d,BK,30
+16,Maracas d,BT,1
+16,Maracas d,BV,2
+16,Maracas d,C,23
+16,Maracas d,CB,7
+16,Maracas d,E,29
+16,Maracas d,G,94
+16,Maracas d,H,1072
+16,Maracas d,L,72
+16,Maracas d,N,4
+16,Maracas d,U,51
+17,Maracas d,A,23
+17,Maracas d,AE,3
+17,Maracas d,AG,82
+17,Maracas d,AL,26
+17,Maracas d,AP,1
+17,Maracas d,AQ,10
+17,Maracas d,BB,2
+17,Maracas d,BD,3
+17,Maracas d,BK,5
+17,Maracas d,BT,1
+17,Maracas d,BV,1
+17,Maracas d,C,148
+17,Maracas d,CI,1
+17,Maracas d,E,50
+17,Maracas d,G,167
+17,Maracas d,H,461
+17,Maracas d,L,30
+17,Maracas d,N,3
+17,Maracas d,U,61
+18,Maracas d,A,65
+18,Maracas d,AE,1
+18,Maracas d,AG,59
+18,Maracas d,AL,29
+18,Maracas d,AQ,5
+18,Maracas d,BD,8
+18,Maracas d,BT,1
+18,Maracas d,BV,4
+18,Maracas d,C,31
+18,Maracas d,D,1
+18,Maracas d,E,51
+18,Maracas d,G,198
+18,Maracas d,H,376
+18,Maracas d,L,64
+18,Maracas d,N,3
+18,Maracas d,U,36
+19,Maracas d,A,7
+19,Maracas d,AE,2
+19,Maracas d,AG,88
+19,Maracas d,AL,18
+19,Maracas d,AP,1
+19,Maracas d,AQ,6
+19,Maracas d,BB,1
+19,Maracas d,BD,2
+19,Maracas d,BK,9
+19,Maracas d,BV,2
+19,Maracas d,C,47
+19,Maracas d,E,6
+19,Maracas d,G,56
+19,Maracas d,H,754
+19,Maracas d,L,19
+19,Maracas d,N,179
+19,Maracas d,U,289
+1,Maracas u,A,16
+1,Maracas u,AE,8
+1,Maracas u,AG,14
+1,Maracas u,AH,1
+1,Maracas u,AL,50
+1,Maracas u,AM,2
+1,Maracas u,AQ,34
+1,Maracas u,BB,1
+1,Maracas u,BJ,5
+1,Maracas u,BK,2
+1,Maracas u,BT,8
+1,Maracas u,BV,5
+1,Maracas u,C,328
+1,Maracas u,CB,1
+1,Maracas u,E,220
+1,Maracas u,G,2263
+1,Maracas u,H,866
+1,Maracas u,L,437
+1,Maracas u,N,10
+1,Maracas u,U,156
+2,Maracas u,A,14
+2,Maracas u,AE,5
+2,Maracas u,AG,2
+2,Maracas u,AH,1
+2,Maracas u,AL,78
+2,Maracas u,AM,5
+2,Maracas u,AP,2
+2,Maracas u,AQ,4
+2,Maracas u,BB,1
+2,Maracas u,BJ,5
+2,Maracas u,BV,2
+2,Maracas u,C,187
+2,Maracas u,CB,1
+2,Maracas u,D,1
+2,Maracas u,E,49
+2,Maracas u,G,442
+2,Maracas u,H,315
+2,Maracas u,L,357
+2,Maracas u,N,4
+2,Maracas u,U,155
+3,Maracas u,A,8
+3,Maracas u,AE,6
+3,Maracas u,AG,1
+3,Maracas u,AH,6
+3,Maracas u,AL,39
+3,Maracas u,AP,1
+3,Maracas u,BB,1
+3,Maracas u,BD,2
+3,Maracas u,BK,1
+3,Maracas u,BV,1
+3,Maracas u,C,10
+3,Maracas u,CC,2
+3,Maracas u,E,4
+3,Maracas u,G,169
+3,Maracas u,H,487
+3,Maracas u,L,390
+3,Maracas u,U,93
+4,Maracas u,A,4
+4,Maracas u,AE,2
+4,Maracas u,AG,1
+4,Maracas u,AH,1
+4,Maracas u,AL,3
+4,Maracas u,AM,1
+4,Maracas u,AP,1
+4,Maracas u,AQ,2
+4,Maracas u,BK,1
+4,Maracas u,BV,3
+4,Maracas u,C,6
+4,Maracas u,E,1
+4,Maracas u,G,1659
+4,Maracas u,H,1076
+4,Maracas u,L,79
+4,Maracas u,N,2
+4,Maracas u,U,9
+5,Maracas u,AE,1
+5,Maracas u,AH,1
+5,Maracas u,AL,2
+5,Maracas u,AQ,3
+5,Maracas u,BV,1
+5,Maracas u,C,5
+5,Maracas u,G,483
+5,Maracas u,H,544
+5,Maracas u,L,114
+5,Maracas u,N,2
+5,Maracas u,U,29
+6,Maracas u,A,31
+6,Maracas u,AE,1
+6,Maracas u,AG,3
+6,Maracas u,AL,10
+6,Maracas u,AM,1
+6,Maracas u,BJ,1
+6,Maracas u,BK,1
+6,Maracas u,BV,2
+6,Maracas u,C,112
+6,Maracas u,D,6
+6,Maracas u,E,100
+6,Maracas u,G,739
+6,Maracas u,H,434
+6,Maracas u,L,246
+6,Maracas u,N,3
+6,Maracas u,U,68
+7,Maracas u,A,39
+7,Maracas u,AH,3
+7,Maracas u,AL,61
+7,Maracas u,AP,2
+7,Maracas u,AQ,15
+7,Maracas u,BB,1
+7,Maracas u,BD,1
+7,Maracas u,BJ,25
+7,Maracas u,BK,4
+7,Maracas u,BV,3
+7,Maracas u,C,61
+7,Maracas u,CB,75
+7,Maracas u,CC,1
+7,Maracas u,E,41
+7,Maracas u,G,264
+7,Maracas u,H,413
+7,Maracas u,L,631
+7,Maracas u,U,57
+8,Maracas u,A,1
+8,Maracas u,AH,1
+8,Maracas u,AL,14
+8,Maracas u,BB,3
+8,Maracas u,BJ,11
+8,Maracas u,BK,2
+8,Maracas u,C,16
+8,Maracas u,E,6
+8,Maracas u,G,492
+8,Maracas u,H,703
+8,Maracas u,L,340
+8,Maracas u,N,3
+8,Maracas u,U,29
+9,Maracas u,A,3
+9,Maracas u,AG,3
+9,Maracas u,AH,1
+9,Maracas u,AL,5
+9,Maracas u,AQ,6
+9,Maracas u,BK,1
+9,Maracas u,BT,2
+9,Maracas u,BV,1
+9,Maracas u,C,66
+9,Maracas u,CB,2
+9,Maracas u,D,2
+9,Maracas u,E,25
+9,Maracas u,G,440
+9,Maracas u,H,432
+9,Maracas u,L,259
+9,Maracas u,N,2
+9,Maracas u,U,53
+10,Maracas u,A,19
+10,Maracas u,AG,1
+10,Maracas u,AH,1
+10,Maracas u,AL,11
+10,Maracas u,AQ,2
+10,Maracas u,BD,1
+10,Maracas u,C,11
+10,Maracas u,D,1
+10,Maracas u,G,288
+10,Maracas u,H,281
+10,Maracas u,L,1115
+10,Maracas u,N,2
+10,Maracas u,U,70
+11,Maracas u,A,43
+11,Maracas u,AE,1
+11,Maracas u,AG,6
+11,Maracas u,AH,1
+11,Maracas u,AL,99
+11,Maracas u,AM,1
+11,Maracas u,AP,2
+11,Maracas u,AQ,1
+11,Maracas u,BJ,6
+11,Maracas u,BV,2
+11,Maracas u,C,28
+11,Maracas u,D,1
+11,Maracas u,E,5
+11,Maracas u,G,235
+11,Maracas u,H,567
+11,Maracas u,L,151
+11,Maracas u,U,17
+12,Maracas u,A,3
+12,Maracas u,AE,3
+12,Maracas u,AG,2
+12,Maracas u,AL,12
+12,Maracas u,BV,1
+12,Maracas u,C,34
+12,Maracas u,D,1
+12,Maracas u,E,8
+12,Maracas u,G,314
+12,Maracas u,H,468
+12,Maracas u,L,37
+12,Maracas u,U,15
+13,Maracas u,A,55
+13,Maracas u,AE,1
+13,Maracas u,AG,4
+13,Maracas u,AH,1
+13,Maracas u,AL,1
+13,Maracas u,AQ,1
+13,Maracas u,BD,2
+13,Maracas u,BV,1
+13,Maracas u,C,9
+13,Maracas u,E,6
+13,Maracas u,G,704
+13,Maracas u,H,236
+13,Maracas u,L,256
+13,Maracas u,U,24
+14,Maracas u,A,42
+14,Maracas u,AG,6
+14,Maracas u,AL,13
+14,Maracas u,AP,2
+14,Maracas u,AQ,1
+14,Maracas u,BD,8
+14,Maracas u,BJ,4
+14,Maracas u,BT,1
+14,Maracas u,BV,2
+14,Maracas u,C,25
+14,Maracas u,CB,8
+14,Maracas u,D,80
+14,Maracas u,E,62
+14,Maracas u,G,479
+14,Maracas u,H,195
+14,Maracas u,L,110
+14,Maracas u,N,1
+14,Maracas u,U,67
+15,Maracas u,A,23
+15,Maracas u,AE,2
+15,Maracas u,AG,1
+15,Maracas u,AH,12
+15,Maracas u,AL,11
+15,Maracas u,AM,1
+15,Maracas u,AQ,3
+15,Maracas u,BD,2
+15,Maracas u,BV,3
+15,Maracas u,C,3
+15,Maracas u,CB,5
+15,Maracas u,D,5
+15,Maracas u,E,29
+15,Maracas u,G,154
+15,Maracas u,H,950
+15,Maracas u,L,81
+15,Maracas u,N,2
+15,Maracas u,U,14
+16,Maracas u,A,10
+16,Maracas u,AE,1
+16,Maracas u,AG,3
+16,Maracas u,AH,2
+16,Maracas u,AL,30
+16,Maracas u,AQ,2
+16,Maracas u,BK,1
+16,Maracas u,C,7
+16,Maracas u,D,1
+16,Maracas u,E,37
+16,Maracas u,G,911
+16,Maracas u,H,491
+16,Maracas u,L,62
+16,Maracas u,N,1
+16,Maracas u,U,23
+17,Maracas u,A,4
+17,Maracas u,AE,1
+17,Maracas u,AG,2
+17,Maracas u,AH,2
+17,Maracas u,AL,41
+17,Maracas u,AP,1
+17,Maracas u,AQ,1
+17,Maracas u,BD,1
+17,Maracas u,BK,1
+17,Maracas u,BV,2
+17,Maracas u,C,23
+17,Maracas u,CB,2
+17,Maracas u,E,22
+17,Maracas u,G,798
+17,Maracas u,H,499
+17,Maracas u,L,129
+17,Maracas u,N,2
+17,Maracas u,U,9
+18,Maracas u,A,13
+18,Maracas u,AG,1
+18,Maracas u,AL,20
+18,Maracas u,AQ,1
+18,Maracas u,BB,1
+18,Maracas u,BD,11
+18,Maracas u,BJ,2
+18,Maracas u,BK,1
+18,Maracas u,C,13
+18,Maracas u,CI,1
+18,Maracas u,D,3
+18,Maracas u,E,127
+18,Maracas u,G,293
+18,Maracas u,H,220
+18,Maracas u,L,117
+18,Maracas u,N,1
+18,Maracas u,U,113
+19,Maracas u,A,5
+19,Maracas u,AG,5
+19,Maracas u,AL,3
+19,Maracas u,AP,2
+19,Maracas u,AQ,1
+19,Maracas u,BB,1
+19,Maracas u,BD,1
+19,Maracas u,BJ,1
+19,Maracas u,BK,1
+19,Maracas u,BV,2
+19,Maracas u,C,1
+19,Maracas u,CB,3
+19,Maracas u,D,2
+19,Maracas u,E,81
+19,Maracas u,G,875
+19,Maracas u,H,471
+19,Maracas u,L,48
+19,Maracas u,U,71
+1,Quare d,A,2
+1,Quare d,AE,1
+1,Quare d,AG,37
+1,Quare d,AQ,2
+1,Quare d,BD,48
+1,Quare d,BK,6
+1,Quare d,C,454
+1,Quare d,CB,1
+1,Quare d,CC,11
+1,Quare d,D,3
+1,Quare d,E,17
+1,Quare d,G,43
+1,Quare d,H,16
+1,Quare d,L,5
+1,Quare d,N,1668
+1,Quare d,U,3408
+2,Quare d,A,2
+2,Quare d,AG,1
+2,Quare d,AL,2
+2,Quare d,BD,214
+2,Quare d,BJ,1
+2,Quare d,BK,2
+2,Quare d,C,20
+2,Quare d,CC,5
+2,Quare d,E,9
+2,Quare d,G,74
+2,Quare d,H,11
+2,Quare d,L,6
+2,Quare d,N,368
+2,Quare d,U,687
+3,Quare d,AG,10
+3,Quare d,BD,113
+3,Quare d,BJ,1
+3,Quare d,BK,2
+3,Quare d,C,10
+3,Quare d,CC,2
+3,Quare d,G,175
+3,Quare d,H,8
+3,Quare d,L,14
+3,Quare d,N,354
+3,Quare d,U,1397
+4,Quare d,CC,2
+4,Quare d,N,1
+4,Quare d,U,2
+5,Quare d,AG,3
+5,Quare d,AQ,2
+5,Quare d,BD,14
+5,Quare d,BK,10
+5,Quare d,BT,1
+5,Quare d,C,148
+5,Quare d,CC,10
+5,Quare d,E,1
+5,Quare d,G,130
+5,Quare d,H,24
+5,Quare d,L,12
+5,Quare d,N,922
+5,Quare d,U,1525
+6,Quare d,A,1
+6,Quare d,AG,6
+6,Quare d,BD,148
+6,Quare d,BJ,4
+6,Quare d,BK,4
+6,Quare d,BT,1
+6,Quare d,C,3
+6,Quare d,CC,1
+6,Quare d,E,1
+6,Quare d,G,68
+6,Quare d,H,15
+6,Quare d,L,3
+6,Quare d,N,105
+6,Quare d,U,445
+7,Quare d,A,4
+7,Quare d,AG,20
+7,Quare d,AL,1
+7,Quare d,BD,81
+7,Quare d,BK,7
+7,Quare d,C,14
+7,Quare d,CC,8
+7,Quare d,D,2
+7,Quare d,E,7
+7,Quare d,G,26
+7,Quare d,H,19
+7,Quare d,L,7
+7,Quare d,N,408
+7,Quare d,U,365
+8,Quare d,AG,1
+8,Quare d,BD,3
+8,Quare d,C,1
+8,Quare d,G,3
+8,Quare d,H,1
+8,Quare d,L,1
+8,Quare d,N,10
+8,Quare d,U,26
+9,Quare d,A,1
+9,Quare d,AL,1
+9,Quare d,BK,1
+9,Quare d,C,1
+9,Quare d,E,1
+9,Quare d,G,17
+9,Quare d,H,8
+9,Quare d,L,1
+9,Quare d,N,16
+9,Quare d,U,6
+10,Quare d,A,3
+10,Quare d,AG,61
+10,Quare d,BD,2217
+10,Quare d,C,37
+10,Quare d,CC,11
+10,Quare d,CI,7
+10,Quare d,E,30
+10,Quare d,G,23
+10,Quare d,H,1
+10,Quare d,L,7
+10,Quare d,N,518
+10,Quare d,U,2440
+11,Quare d,AG,7
+11,Quare d,BB,1
+11,Quare d,BD,272
+11,Quare d,BK,9
+11,Quare d,C,53
+11,Quare d,CB,1
+11,Quare d,CC,8
+11,Quare d,E,3
+11,Quare d,G,15
+11,Quare d,H,12
+11,Quare d,L,14
+11,Quare d,N,193
+11,Quare d,U,545
+12,Quare d,A,6
+12,Quare d,BD,6
+12,Quare d,BK,2
+12,Quare d,C,4
+12,Quare d,D,1
+12,Quare d,E,1
+12,Quare d,G,82
+12,Quare d,H,10
+12,Quare d,L,6
+12,Quare d,N,27
+12,Quare d,U,72
+13,Quare d,A,1
+13,Quare d,AG,30
+13,Quare d,AL,1
+13,Quare d,BD,78
+13,Quare d,BJ,1
+13,Quare d,BK,1
+13,Quare d,C,20
+13,Quare d,CC,49
+13,Quare d,E,15
+13,Quare d,G,72
+13,Quare d,H,1
+13,Quare d,L,7
+13,Quare d,N,482
+13,Quare d,U,907
+14,Quare d,A,1
+14,Quare d,AG,3
+14,Quare d,AL,3
+14,Quare d,BD,508
+14,Quare d,BK,3
+14,Quare d,C,70
+14,Quare d,CB,2
+14,Quare d,CC,9
+14,Quare d,CI,1
+14,Quare d,D,1
+14,Quare d,E,300
+14,Quare d,G,82
+14,Quare d,H,20
+14,Quare d,L,5
+14,Quare d,N,28
+14,Quare d,U,142
+15,Quare d,A,5
+15,Quare d,AG,12
+15,Quare d,AL,1
+15,Quare d,AQ,3
+15,Quare d,BD,765
+15,Quare d,BJ,1
+15,Quare d,BK,2
+15,Quare d,C,111
+15,Quare d,CC,3
+15,Quare d,E,24
+15,Quare d,G,88
+15,Quare d,H,14
+15,Quare d,L,10
+15,Quare d,N,364
+15,Quare d,U,450
+16,Quare d,AG,1
+16,Quare d,BB,1
+16,Quare d,BK,1
+16,Quare d,C,2
+16,Quare d,CC,2
+16,Quare d,G,17
+16,Quare d,H,2
+16,Quare d,L,1
+16,Quare d,N,3
+16,Quare d,U,3
+17,Quare d,A,3
+17,Quare d,AG,4
+17,Quare d,AH,1
+17,Quare d,AQ,1
+17,Quare d,BD,111
+17,Quare d,BJ,2
+17,Quare d,BK,20
+17,Quare d,BT,1
+17,Quare d,C,19
+17,Quare d,CC,46
+17,Quare d,E,1472
+17,Quare d,G,337
+17,Quare d,H,132
+17,Quare d,L,8
+17,Quare d,N,104
+17,Quare d,U,59
+18,Quare d,A,2
+18,Quare d,AG,2
+18,Quare d,BD,532
+18,Quare d,BK,3
+18,Quare d,C,58
+18,Quare d,CC,35
+18,Quare d,E,1171
+18,Quare d,G,25
+18,Quare d,H,4
+18,Quare d,L,22
+18,Quare d,N,32
+18,Quare d,U,206
+19,Quare d,AG,8
+19,Quare d,BD,1012
+19,Quare d,BK,5
+19,Quare d,C,46
+19,Quare d,CC,5
+19,Quare d,E,25
+19,Quare d,G,14
+19,Quare d,H,2
+19,Quare d,L,1
+19,Quare d,N,54
+19,Quare d,U,526
+1,Quare u,A,13
+1,Quare u,AE,4
+1,Quare u,AG,10
+1,Quare u,AL,1
+1,Quare u,AQ,5
+1,Quare u,BD,15
+1,Quare u,BJ,1
+1,Quare u,BK,20
+1,Quare u,BT,4
+1,Quare u,C,60
+1,Quare u,CB,21
+1,Quare u,CC,10
+1,Quare u,CI,6
+1,Quare u,E,14
+1,Quare u,G,217
+1,Quare u,H,346
+1,Quare u,L,13
+1,Quare u,N,635
+1,Quare u,U,1318
+2,Quare u,A,6
+2,Quare u,AG,2
+2,Quare u,AL,8
+2,Quare u,BD,50
+2,Quare u,BJ,1
+2,Quare u,BK,3
+2,Quare u,C,28
+2,Quare u,CC,3
+2,Quare u,E,2
+2,Quare u,G,347
+2,Quare u,H,40
+2,Quare u,L,20
+2,Quare u,N,194
+2,Quare u,U,287
+3,Quare u,A,1
+3,Quare u,AG,4
+3,Quare u,AL,18
+3,Quare u,BD,18
+3,Quare u,C,39
+3,Quare u,CB,1
+3,Quare u,CC,1
+3,Quare u,E,1
+3,Quare u,G,98
+3,Quare u,H,85
+3,Quare u,L,3
+3,Quare u,N,272
+3,Quare u,U,691
+4,Quare u,C,4
+4,Quare u,CC,1
+4,Quare u,H,13
+4,Quare u,N,1
+4,Quare u,U,2
+5,Quare u,A,1
+5,Quare u,AG,3
+5,Quare u,AQ,2
+5,Quare u,BD,13
+5,Quare u,BJ,1
+5,Quare u,BK,11
+5,Quare u,C,33
+5,Quare u,CB,3
+5,Quare u,CC,28
+5,Quare u,E,11
+5,Quare u,G,996
+5,Quare u,H,414
+5,Quare u,L,16
+5,Quare u,N,392
+5,Quare u,U,896
+6,Quare u,A,2
+6,Quare u,AG,2
+6,Quare u,AH,1
+6,Quare u,AL,61
+6,Quare u,BB,3
+6,Quare u,BD,100
+6,Quare u,BJ,12
+6,Quare u,BK,16
+6,Quare u,C,5
+6,Quare u,CC,2
+6,Quare u,E,3
+6,Quare u,G,368
+6,Quare u,H,132
+6,Quare u,L,11
+6,Quare u,N,31
+6,Quare u,U,93
+7,Quare u,A,1
+7,Quare u,AG,5
+7,Quare u,AQ,2
+7,Quare u,BD,68
+7,Quare u,BJ,1
+7,Quare u,BK,44
+7,Quare u,C,23
+7,Quare u,CB,1
+7,Quare u,E,6
+7,Quare u,G,6
+7,Quare u,H,26
+7,Quare u,L,1
+7,Quare u,N,122
+7,Quare u,U,86
+8,Quare u,A,5
+8,Quare u,AG,2
+8,Quare u,AL,20
+8,Quare u,AV,1
+8,Quare u,BD,3
+8,Quare u,BJ,4
+8,Quare u,BK,45
+8,Quare u,C,9
+8,Quare u,E,4
+8,Quare u,G,150
+8,Quare u,H,204
+8,Quare u,L,2
+8,Quare u,N,58
+8,Quare u,U,27
+9,Quare u,AL,5
+9,Quare u,BD,1
+9,Quare u,BK,3
+9,Quare u,BT,1
+9,Quare u,C,9
+9,Quare u,E,3
+9,Quare u,G,53
+9,Quare u,H,92
+9,Quare u,L,5
+9,Quare u,N,11
+9,Quare u,U,13
+10,Quare u,A,11
+10,Quare u,AG,25
+10,Quare u,AL,21
+10,Quare u,AQ,1
+10,Quare u,BD,1306
+10,Quare u,BJ,1
+10,Quare u,BK,1
+10,Quare u,BT,1
+10,Quare u,C,66
+10,Quare u,CB,3
+10,Quare u,CC,7
+10,Quare u,CI,1
+10,Quare u,E,39
+10,Quare u,G,253
+10,Quare u,H,83
+10,Quare u,L,63
+10,Quare u,N,62
+10,Quare u,U,606
+11,Quare u,A,5
+11,Quare u,AG,3
+11,Quare u,AL,45
+11,Quare u,BD,268
+11,Quare u,BJ,4
+11,Quare u,BK,8
+11,Quare u,C,30
+11,Quare u,CC,5
+11,Quare u,D,2
+11,Quare u,E,8
+11,Quare u,G,204
+11,Quare u,H,212
+11,Quare u,L,32
+11,Quare u,N,169
+11,Quare u,U,520
+12,Quare u,A,1
+12,Quare u,AG,3
+12,Quare u,AL,15
+12,Quare u,BD,130
+12,Quare u,BJ,3
+12,Quare u,C,41
+12,Quare u,CC,6
+12,Quare u,E,1
+12,Quare u,G,231
+12,Quare u,H,56
+12,Quare u,L,9
+12,Quare u,N,40
+12,Quare u,U,93
+13,Quare u,A,39
+13,Quare u,AG,30
+13,Quare u,AH,1
+13,Quare u,AL,4
+13,Quare u,BD,75
+13,Quare u,BJ,5
+13,Quare u,BK,34
+13,Quare u,BT,1
+13,Quare u,C,34
+13,Quare u,CC,36
+13,Quare u,E,17
+13,Quare u,G,356
+13,Quare u,H,169
+13,Quare u,L,67
+13,Quare u,N,317
+13,Quare u,U,616
+14,Quare u,A,2
+14,Quare u,AG,4
+14,Quare u,AH,1
+14,Quare u,AL,6
+14,Quare u,AP,1
+14,Quare u,BD,129
+14,Quare u,BJ,1
+14,Quare u,BK,4
+14,Quare u,C,27
+14,Quare u,CC,10
+14,Quare u,E,67
+14,Quare u,G,481
+14,Quare u,H,64
+14,Quare u,L,3
+14,Quare u,N,90
+14,Quare u,U,185
+15,Quare u,A,4
+15,Quare u,AE,1
+15,Quare u,AG,17
+15,Quare u,AL,7
+15,Quare u,AM,1
+15,Quare u,AQ,2
+15,Quare u,BD,101
+15,Quare u,BJ,1
+15,Quare u,BK,21
+15,Quare u,C,153
+15,Quare u,CC,1
+15,Quare u,D,1
+15,Quare u,E,32
+15,Quare u,G,925
+15,Quare u,H,252
+15,Quare u,L,3
+15,Quare u,N,452
+15,Quare u,U,252
+16,Quare u,AG,1
+16,Quare u,AH,1
+16,Quare u,CC,3
+16,Quare u,E,1
+16,Quare u,G,6
+16,Quare u,H,3
+16,Quare u,L,2
+16,Quare u,U,1
+17,Quare u,A,4
+17,Quare u,AE,1
+17,Quare u,AG,1
+17,Quare u,AL,10
+17,Quare u,AV,1
+17,Quare u,BD,36
+17,Quare u,BK,21
+17,Quare u,C,15
+17,Quare u,CC,2
+17,Quare u,E,263
+17,Quare u,G,695
+17,Quare u,H,116
+17,Quare u,L,2
+17,Quare u,N,18
+17,Quare u,U,18
+18,Quare u,A,10
+18,Quare u,AG,9
+18,Quare u,AL,3
+18,Quare u,BD,718
+18,Quare u,BJ,1
+18,Quare u,BK,1
+18,Quare u,BT,1
+18,Quare u,C,105
+18,Quare u,CB,1
+18,Quare u,CC,34
+18,Quare u,E,50
+18,Quare u,G,1022
+18,Quare u,H,27
+18,Quare u,L,9
+18,Quare u,N,8
+18,Quare u,U,194
+19,Quare u,A,8
+19,Quare u,AG,40
+19,Quare u,AL,3
+19,Quare u,BD,404
+19,Quare u,BJ,3
+19,Quare u,BK,19
+19,Quare u,C,121
+19,Quare u,CC,24
+19,Quare u,E,97
+19,Quare u,G,111
+19,Quare u,H,135
+19,Quare u,L,6
+19,Quare u,N,140
+19,Quare u,U,507
+1,Turure d,A,4
+1,Turure d,AE,2
+1,Turure d,AG,23
+1,Turure d,AL,3
+1,Turure d,AQ,2
+1,Turure d,BB,1
+1,Turure d,BD,69
+1,Turure d,C,3
+1,Turure d,CC,5
+1,Turure d,E,5
+1,Turure d,G,11
+1,Turure d,H,2
+1,Turure d,L,43
+1,Turure d,N,268
+1,Turure d,U,770
+2,Turure d,A,1
+2,Turure d,AL,3
+2,Turure d,BD,14
+2,Turure d,CC,2
+2,Turure d,D,1
+2,Turure d,E,1
+2,Turure d,G,3
+2,Turure d,H,1
+2,Turure d,N,194
+2,Turure d,U,156
+3,Turure d,AE,1
+3,Turure d,AG,3
+3,Turure d,AQ,1
+3,Turure d,BD,3
+3,Turure d,C,2
+3,Turure d,G,4
+3,Turure d,H,1
+3,Turure d,L,6
+3,Turure d,N,66
+3,Turure d,U,176
+4,Turure d,A,2
+4,Turure d,BD,2
+4,Turure d,G,1
+4,Turure d,H,1
+4,Turure d,L,1
+4,Turure d,U,4
+5,Turure d,A,1
+5,Turure d,AG,2
+5,Turure d,AL,2
+5,Turure d,BD,22
+5,Turure d,BJ,1
+5,Turure d,C,2
+5,Turure d,CC,1
+5,Turure d,E,3
+5,Turure d,G,4
+5,Turure d,H,4
+5,Turure d,L,7
+5,Turure d,N,93
+5,Turure d,U,76
+6,Turure d,A,7
+6,Turure d,AG,2
+6,Turure d,AL,2
+6,Turure d,BD,61
+6,Turure d,BJ,1
+6,Turure d,C,1
+6,Turure d,G,5
+6,Turure d,H,9
+6,Turure d,L,2
+6,Turure d,N,111
+6,Turure d,U,154
+7,Turure d,AG,1
+7,Turure d,AL,5
+7,Turure d,BD,46
+7,Turure d,BJ,1
+7,Turure d,BK,1
+7,Turure d,C,1
+7,Turure d,CB,1
+7,Turure d,D,1
+7,Turure d,E,3
+7,Turure d,G,3
+7,Turure d,H,3
+7,Turure d,L,9
+7,Turure d,N,12
+7,Turure d,U,4
+8,Turure d,A,4
+8,Turure d,AL,1
+8,Turure d,BD,4
+8,Turure d,BT,1
+8,Turure d,G,1
+8,Turure d,H,1
+8,Turure d,L,1
+8,Turure d,N,7
+8,Turure d,U,22
+9,Turure d,AG,2
+9,Turure d,AL,1
+9,Turure d,BD,20
+9,Turure d,C,2
+9,Turure d,E,4
+9,Turure d,G,1
+9,Turure d,H,3
+9,Turure d,L,2
+9,Turure d,N,17
+9,Turure d,U,8
+10,Turure d,A,15
+10,Turure d,AL,1
+10,Turure d,BD,128
+10,Turure d,C,3
+10,Turure d,CC,3
+10,Turure d,E,1
+10,Turure d,G,22
+10,Turure d,H,1
+10,Turure d,L,6
+10,Turure d,N,144
+10,Turure d,U,424
+11,Turure d,A,14
+11,Turure d,AH,1
+11,Turure d,AL,1
+11,Turure d,BD,64
+11,Turure d,C,4
+11,Turure d,CC,2
+11,Turure d,D,1
+11,Turure d,G,5
+11,Turure d,H,5
+11,Turure d,L,44
+11,Turure d,N,52
+11,Turure d,U,140
+12,Turure d,A,2
+12,Turure d,AE,1
+12,Turure d,AG,4
+12,Turure d,AH,1
+12,Turure d,AL,1
+12,Turure d,BD,2
+12,Turure d,C,3
+12,Turure d,G,2
+12,Turure d,H,9
+12,Turure d,L,50
+12,Turure d,N,35
+12,Turure d,U,25
+13,Turure d,A,5
+13,Turure d,AG,15
+13,Turure d,AL,1
+13,Turure d,BD,231
+13,Turure d,C,4
+13,Turure d,E,10
+13,Turure d,G,2
+13,Turure d,H,1
+13,Turure d,L,8
+13,Turure d,N,38
+13,Turure d,U,113
+14,Turure d,A,7
+14,Turure d,AG,5
+14,Turure d,AL,4
+14,Turure d,BD,70
+14,Turure d,C,3
+14,Turure d,CC,7
+14,Turure d,E,2
+14,Turure d,G,36
+14,Turure d,H,1
+14,Turure d,N,189
+14,Turure d,U,195
+15,Turure d,A,10
+15,Turure d,AG,5
+15,Turure d,AL,2
+15,Turure d,BD,11
+15,Turure d,C,5
+15,Turure d,CC,2
+15,Turure d,E,3
+15,Turure d,G,12
+15,Turure d,H,1
+15,Turure d,L,3
+15,Turure d,N,1712
+15,Turure d,U,2252
+16,Turure d,A,4
+16,Turure d,AG,3
+16,Turure d,AL,2
+16,Turure d,AQ,1
+16,Turure d,BD,25
+16,Turure d,BV,1
+16,Turure d,C,3
+16,Turure d,CI,1
+16,Turure d,E,1
+16,Turure d,G,11
+16,Turure d,L,16
+16,Turure d,N,749
+16,Turure d,U,263
+17,Turure d,A,7
+17,Turure d,AG,11
+17,Turure d,BD,578
+17,Turure d,BK,1
+17,Turure d,BT,1
+17,Turure d,C,7
+17,Turure d,CC,3
+17,Turure d,E,38
+17,Turure d,G,7
+17,Turure d,H,8
+17,Turure d,L,4
+17,Turure d,N,24
+17,Turure d,U,235
+18,Turure d,A,3
+18,Turure d,AG,16
+18,Turure d,BD,818
+18,Turure d,C,1
+18,Turure d,CC,21
+18,Turure d,E,12
+18,Turure d,G,19
+18,Turure d,H,1
+18,Turure d,L,4
+18,Turure d,N,39
+18,Turure d,U,203
+19,Turure d,A,7
+19,Turure d,AG,1
+19,Turure d,BD,76
+19,Turure d,C,4
+19,Turure d,E,1
+19,Turure d,G,8
+19,Turure d,H,2
+19,Turure d,L,8
+19,Turure d,N,341
+19,Turure d,U,480
+1,Turure u,A,16
+1,Turure u,AE,1
+1,Turure u,AG,4
+1,Turure u,AL,101
+1,Turure u,AQ,4
+1,Turure u,BD,17
+1,Turure u,BJ,3
+1,Turure u,BK,2
+1,Turure u,BT,24
+1,Turure u,C,32
+1,Turure u,CB,29
+1,Turure u,CC,1
+1,Turure u,E,12
+1,Turure u,G,492
+1,Turure u,H,912
+1,Turure u,L,58
+1,Turure u,N,55
+1,Turure u,U,281
+2,Turure u,A,17
+2,Turure u,AG,2
+2,Turure u,AL,114
+2,Turure u,BD,4
+2,Turure u,BT,5
+2,Turure u,C,8
+2,Turure u,G,125
+2,Turure u,H,120
+2,Turure u,L,6
+2,Turure u,N,2
+2,Turure u,U,20
+3,Turure u,AG,2
+3,Turure u,AL,17
+3,Turure u,BD,18
+3,Turure u,BT,1
+3,Turure u,C,1
+3,Turure u,G,12
+3,Turure u,H,144
+3,Turure u,L,9
+3,Turure u,N,176
+3,Turure u,U,474
+4,Turure u,AL,4
+4,Turure u,C,2
+4,Turure u,G,3
+4,Turure u,H,4
+4,Turure u,L,1
+4,Turure u,N,2
+4,Turure u,U,4
+5,Turure u,A,11
+5,Turure u,AG,1
+5,Turure u,AL,125
+5,Turure u,BD,18
+5,Turure u,BK,1
+5,Turure u,BT,16
+5,Turure u,C,2
+5,Turure u,CI,1
+5,Turure u,E,16
+5,Turure u,G,111
+5,Turure u,H,265
+5,Turure u,L,29
+5,Turure u,N,217
+5,Turure u,U,149
+6,Turure u,A,1
+6,Turure u,AL,75
+6,Turure u,BD,3
+6,Turure u,BT,5
+6,Turure u,C,3
+6,Turure u,E,3
+6,Turure u,G,9
+6,Turure u,H,491
+6,Turure u,L,2
+6,Turure u,N,8
+6,Turure u,U,44
+7,Turure u,A,8
+7,Turure u,AE,1
+7,Turure u,AG,9
+7,Turure u,AH,1
+7,Turure u,AL,33
+7,Turure u,AQ,3
+7,Turure u,AV,1
+7,Turure u,BD,25
+7,Turure u,BJ,1
+7,Turure u,BK,2
+7,Turure u,C,54
+7,Turure u,CC,4
+7,Turure u,D,1
+7,Turure u,E,14
+7,Turure u,G,101
+7,Turure u,H,142
+7,Turure u,L,157
+7,Turure u,N,34
+7,Turure u,U,91
+8,Turure u,A,6
+8,Turure u,AE,1
+8,Turure u,AG,1
+8,Turure u,AL,74
+8,Turure u,BD,2
+8,Turure u,BT,6
+8,Turure u,G,16
+8,Turure u,H,73
+8,Turure u,L,47
+8,Turure u,N,10
+8,Turure u,U,56
+9,Turure u,A,3
+9,Turure u,AG,1
+9,Turure u,AL,11
+9,Turure u,AV,1
+9,Turure u,BD,2
+9,Turure u,BT,1
+9,Turure u,C,1
+9,Turure u,CI,1
+9,Turure u,E,3
+9,Turure u,G,17
+9,Turure u,H,27
+9,Turure u,L,7
+9,Turure u,N,53
+9,Turure u,U,27
+10,Turure u,A,25
+10,Turure u,AL,22
+10,Turure u,BD,17
+10,Turure u,BJ,3
+10,Turure u,BT,1
+10,Turure u,C,3
+10,Turure u,CC,1
+10,Turure u,CI,1
+10,Turure u,G,3
+10,Turure u,H,41
+10,Turure u,L,70
+10,Turure u,N,15
+10,Turure u,U,35
+11,Turure u,A,8
+11,Turure u,AG,2
+11,Turure u,AL,11
+11,Turure u,AQ,1
+11,Turure u,BD,139
+11,Turure u,BJ,1
+11,Turure u,BT,9
+11,Turure u,C,7
+11,Turure u,CC,3
+11,Turure u,E,9
+11,Turure u,G,407
+11,Turure u,H,120
+11,Turure u,L,141
+11,Turure u,N,87
+11,Turure u,U,137
+12,Turure u,A,3
+12,Turure u,AG,4
+12,Turure u,AL,15
+12,Turure u,BB,1
+12,Turure u,BD,114
+12,Turure u,BT,5
+12,Turure u,C,3
+12,Turure u,CC,2
+12,Turure u,E,2
+12,Turure u,G,581
+12,Turure u,H,127
+12,Turure u,L,51
+12,Turure u,N,21
+12,Turure u,U,67
+13,Turure u,A,10
+13,Turure u,AE,1
+13,Turure u,AG,20
+13,Turure u,AL,28
+13,Turure u,BD,31
+13,Turure u,BT,7
+13,Turure u,C,10
+13,Turure u,E,5
+13,Turure u,G,1160
+13,Turure u,H,206
+13,Turure u,L,47
+13,Turure u,N,79
+13,Turure u,U,112
+14,Turure u,A,10
+14,Turure u,AL,10
+14,Turure u,AV,1
+14,Turure u,BB,3
+14,Turure u,BD,35
+14,Turure u,BT,59
+14,Turure u,C,4
+14,Turure u,CB,1
+14,Turure u,E,3
+14,Turure u,G,26
+14,Turure u,H,9
+14,Turure u,L,18
+14,Turure u,N,3
+14,Turure u,U,12
+15,Turure u,A,1
+15,Turure u,AG,20
+15,Turure u,AL,81
+15,Turure u,AP,1
+15,Turure u,BD,49
+15,Turure u,BT,15
+15,Turure u,C,5
+15,Turure u,CB,3
+15,Turure u,E,5
+15,Turure u,G,16
+15,Turure u,H,11
+15,Turure u,L,10
+15,Turure u,N,5
+15,Turure u,U,21
+16,Turure u,A,1
+16,Turure u,AG,2
+16,Turure u,AL,3
+16,Turure u,BB,1
+16,Turure u,BD,9
+16,Turure u,BT,1
+16,Turure u,C,3
+16,Turure u,E,3
+16,Turure u,G,33
+16,Turure u,H,55
+16,Turure u,L,28
+16,Turure u,N,20
+16,Turure u,U,41
+17,Turure u,A,4
+17,Turure u,AG,4
+17,Turure u,AL,27
+17,Turure u,BD,56
+17,Turure u,BK,1
+17,Turure u,BT,7
+17,Turure u,C,8
+17,Turure u,CC,1
+17,Turure u,E,5
+17,Turure u,G,334
+17,Turure u,H,83
+17,Turure u,L,16
+17,Turure u,N,34
+17,Turure u,U,35
+18,Turure u,A,4
+18,Turure u,AG,9
+18,Turure u,AL,70
+18,Turure u,BB,1
+18,Turure u,BD,480
+18,Turure u,BJ,2
+18,Turure u,BT,15
+18,Turure u,C,42
+18,Turure u,CC,1
+18,Turure u,E,124
+18,Turure u,G,182
+18,Turure u,H,19
+18,Turure u,L,36
+18,Turure u,N,9
+18,Turure u,U,166
+19,Turure u,A,8
+19,Turure u,AG,17
+19,Turure u,AL,7
+19,Turure u,BD,14
+19,Turure u,BJ,1
+19,Turure u,C,4
+19,Turure u,CC,1
+19,Turure u,E,1
+19,Turure u,G,21
+19,Turure u,H,33
+19,Turure u,L,23
+19,Turure u,N,69
+19,Turure u,U,165
+1,Upper Aripo d,A,10
+1,Upper Aripo d,AE,2
+1,Upper Aripo d,AG,7
+1,Upper Aripo d,AL,1
+1,Upper Aripo d,AQ,21
+1,Upper Aripo d,BB,2
+1,Upper Aripo d,BD,5
+1,Upper Aripo d,BT,2
+1,Upper Aripo d,BV,1
+1,Upper Aripo d,C,5
+1,Upper Aripo d,CB,1
+1,Upper Aripo d,G,42
+1,Upper Aripo d,H,707
+1,Upper Aripo d,L,15
+1,Upper Aripo d,N,3
+1,Upper Aripo d,U,86
+2,Upper Aripo d,A,28
+2,Upper Aripo d,AE,1
+2,Upper Aripo d,AG,38
+2,Upper Aripo d,BB,3
+2,Upper Aripo d,BD,74
+2,Upper Aripo d,BT,1
+2,Upper Aripo d,C,6
+2,Upper Aripo d,CB,7
+2,Upper Aripo d,CI,2
+2,Upper Aripo d,D,1
+2,Upper Aripo d,E,19
+2,Upper Aripo d,G,112
+2,Upper Aripo d,H,11
+2,Upper Aripo d,L,12
+2,Upper Aripo d,N,1
+2,Upper Aripo d,U,74
+3,Upper Aripo d,A,11
+3,Upper Aripo d,AG,14
+3,Upper Aripo d,BD,13
+3,Upper Aripo d,BJ,2
+3,Upper Aripo d,BK,1
+3,Upper Aripo d,C,1
+3,Upper Aripo d,D,1
+3,Upper Aripo d,E,1
+3,Upper Aripo d,G,9
+3,Upper Aripo d,L,28
+3,Upper Aripo d,U,27
+4,Upper Aripo d,A,8
+4,Upper Aripo d,AG,98
+4,Upper Aripo d,AL,7
+4,Upper Aripo d,BD,465
+4,Upper Aripo d,BV,6
+4,Upper Aripo d,C,2
+4,Upper Aripo d,CC,5
+4,Upper Aripo d,G,9
+4,Upper Aripo d,H,17
+4,Upper Aripo d,L,234
+4,Upper Aripo d,N,1
+4,Upper Aripo d,U,108
+5,Upper Aripo d,A,15
+5,Upper Aripo d,AE,5
+5,Upper Aripo d,AG,48
+5,Upper Aripo d,AL,44
+5,Upper Aripo d,AP,1
+5,Upper Aripo d,AQ,1
+5,Upper Aripo d,AV,3
+5,Upper Aripo d,BB,2
+5,Upper Aripo d,BD,24
+5,Upper Aripo d,BJ,7
+5,Upper Aripo d,BT,1
+5,Upper Aripo d,BV,1
+5,Upper Aripo d,C,2
+5,Upper Aripo d,CI,2
+5,Upper Aripo d,E,17
+5,Upper Aripo d,G,61
+5,Upper Aripo d,H,32
+5,Upper Aripo d,L,26
+5,Upper Aripo d,U,66
+6,Upper Aripo d,A,55
+6,Upper Aripo d,AG,15
+6,Upper Aripo d,AL,3
+6,Upper Aripo d,AV,3
+6,Upper Aripo d,BD,25
+6,Upper Aripo d,BT,1
+6,Upper Aripo d,E,2
+6,Upper Aripo d,G,19
+6,Upper Aripo d,H,3
+6,Upper Aripo d,L,22
+6,Upper Aripo d,N,1
+6,Upper Aripo d,U,26
+7,Upper Aripo d,A,13
+7,Upper Aripo d,AG,407
+7,Upper Aripo d,AP,1
+7,Upper Aripo d,AQ,4
+7,Upper Aripo d,BB,1
+7,Upper Aripo d,BD,228
+7,Upper Aripo d,BV,1
+7,Upper Aripo d,C,48
+7,Upper Aripo d,CC,4
+7,Upper Aripo d,D,2
+7,Upper Aripo d,E,2
+7,Upper Aripo d,G,5
+7,Upper Aripo d,H,5
+7,Upper Aripo d,L,238
+7,Upper Aripo d,N,1
+7,Upper Aripo d,U,133
+8,Upper Aripo d,A,12
+8,Upper Aripo d,AG,1
+8,Upper Aripo d,AL,3
+8,Upper Aripo d,BD,5
+8,Upper Aripo d,BJ,1
+8,Upper Aripo d,BT,2
+8,Upper Aripo d,C,5
+8,Upper Aripo d,E,3
+8,Upper Aripo d,G,51
+8,Upper Aripo d,H,4
+8,Upper Aripo d,L,16
+8,Upper Aripo d,U,20
+9,Upper Aripo d,A,17
+9,Upper Aripo d,AG,12
+9,Upper Aripo d,AL,17
+9,Upper Aripo d,AV,9
+9,Upper Aripo d,BD,31
+9,Upper Aripo d,BJ,5
+9,Upper Aripo d,BK,2
+9,Upper Aripo d,BT,90
+9,Upper Aripo d,BV,1
+9,Upper Aripo d,C,18
+9,Upper Aripo d,CB,4
+9,Upper Aripo d,E,10
+9,Upper Aripo d,G,36
+9,Upper Aripo d,H,36
+9,Upper Aripo d,L,35
+9,Upper Aripo d,N,2
+9,Upper Aripo d,U,57
+10,Upper Aripo d,A,34
+10,Upper Aripo d,AE,1
+10,Upper Aripo d,AG,14
+10,Upper Aripo d,AL,7
+10,Upper Aripo d,AV,1
+10,Upper Aripo d,BB,1
+10,Upper Aripo d,BD,223
+10,Upper Aripo d,BJ,1
+10,Upper Aripo d,BT,2
+10,Upper Aripo d,C,1
+10,Upper Aripo d,CB,1
+10,Upper Aripo d,E,6
+10,Upper Aripo d,G,21
+10,Upper Aripo d,H,2
+10,Upper Aripo d,L,22
+10,Upper Aripo d,N,3
+10,Upper Aripo d,U,65
+11,Upper Aripo d,A,34
+11,Upper Aripo d,AE,1
+11,Upper Aripo d,AG,19
+11,Upper Aripo d,AL,6
+11,Upper Aripo d,AP,1
+11,Upper Aripo d,AQ,2
+11,Upper Aripo d,AV,3
+11,Upper Aripo d,BB,1
+11,Upper Aripo d,BD,136
+11,Upper Aripo d,BJ,5
+11,Upper Aripo d,BK,1
+11,Upper Aripo d,BT,7
+11,Upper Aripo d,C,23
+11,Upper Aripo d,CB,2
+11,Upper Aripo d,E,17
+11,Upper Aripo d,G,26
+11,Upper Aripo d,H,22
+11,Upper Aripo d,L,31
+11,Upper Aripo d,N,4
+11,Upper Aripo d,U,98
+12,Upper Aripo d,A,1
+12,Upper Aripo d,BB,1
+12,Upper Aripo d,BJ,4
+12,Upper Aripo d,BT,2
+12,Upper Aripo d,C,3
+12,Upper Aripo d,G,11
+12,Upper Aripo d,H,129
+12,Upper Aripo d,L,1
+12,Upper Aripo d,U,1
+13,Upper Aripo d,A,152
+13,Upper Aripo d,AE,1
+13,Upper Aripo d,AG,27
+13,Upper Aripo d,AL,21
+13,Upper Aripo d,AP,1
+13,Upper Aripo d,AQ,1
+13,Upper Aripo d,AV,2
+13,Upper Aripo d,BB,3
+13,Upper Aripo d,BD,286
+13,Upper Aripo d,BJ,33
+13,Upper Aripo d,C,18
+13,Upper Aripo d,CB,3
+13,Upper Aripo d,CC,1
+13,Upper Aripo d,CI,5
+13,Upper Aripo d,E,37
+13,Upper Aripo d,G,8
+13,Upper Aripo d,H,3
+13,Upper Aripo d,L,18
+13,Upper Aripo d,N,1
+13,Upper Aripo d,U,79
+14,Upper Aripo d,A,27
+14,Upper Aripo d,AG,4
+14,Upper Aripo d,AL,2
+14,Upper Aripo d,AP,1
+14,Upper Aripo d,AQ,1
+14,Upper Aripo d,BB,3
+14,Upper Aripo d,BD,208
+14,Upper Aripo d,C,8
+14,Upper Aripo d,CB,2
+14,Upper Aripo d,CI,5
+14,Upper Aripo d,E,19
+14,Upper Aripo d,G,422
+14,Upper Aripo d,H,49
+14,Upper Aripo d,L,21
+14,Upper Aripo d,N,1
+14,Upper Aripo d,U,19
+15,Upper Aripo d,A,41
+15,Upper Aripo d,AG,22
+15,Upper Aripo d,AQ,2
+15,Upper Aripo d,AV,1
+15,Upper Aripo d,BB,2
+15,Upper Aripo d,BD,116
+15,Upper Aripo d,BJ,1
+15,Upper Aripo d,BT,1
+15,Upper Aripo d,C,15
+15,Upper Aripo d,CB,3
+15,Upper Aripo d,CI,1
+15,Upper Aripo d,D,4
+15,Upper Aripo d,E,83
+15,Upper Aripo d,G,14
+15,Upper Aripo d,H,1
+15,Upper Aripo d,L,14
+15,Upper Aripo d,N,1
+15,Upper Aripo d,U,29
+16,Upper Aripo d,H,1
+16,Upper Aripo d,L,2
+17,Upper Aripo d,A,16
+17,Upper Aripo d,AG,5
+17,Upper Aripo d,AL,6
+17,Upper Aripo d,BD,12
+17,Upper Aripo d,BJ,6
+17,Upper Aripo d,BT,2
+17,Upper Aripo d,C,2
+17,Upper Aripo d,E,4
+17,Upper Aripo d,G,37
+17,Upper Aripo d,H,180
+17,Upper Aripo d,L,16
+17,Upper Aripo d,U,23
+18,Upper Aripo d,A,2
+18,Upper Aripo d,AE,1
+18,Upper Aripo d,AV,1
+18,Upper Aripo d,BD,96
+18,Upper Aripo d,BJ,4
+18,Upper Aripo d,BT,1
+18,Upper Aripo d,C,7
+18,Upper Aripo d,E,25
+18,Upper Aripo d,G,38
+18,Upper Aripo d,H,17
+18,Upper Aripo d,L,5
+18,Upper Aripo d,U,26
+19,Upper Aripo d,A,3
+19,Upper Aripo d,AE,1
+19,Upper Aripo d,AG,21
+19,Upper Aripo d,AL,1
+19,Upper Aripo d,AP,1
+19,Upper Aripo d,BD,12
+19,Upper Aripo d,C,13
+19,Upper Aripo d,CI,1
+19,Upper Aripo d,E,13
+19,Upper Aripo d,G,106
+19,Upper Aripo d,H,116
+19,Upper Aripo d,L,3
+19,Upper Aripo d,N,2
+19,Upper Aripo d,U,18
+1,Upper Aripo u,A,27
+1,Upper Aripo u,AE,16
+1,Upper Aripo u,AG,106
+1,Upper Aripo u,AL,2
+1,Upper Aripo u,AQ,32
+1,Upper Aripo u,BB,5
+1,Upper Aripo u,BD,211
+1,Upper Aripo u,BJ,1
+1,Upper Aripo u,BT,6
+1,Upper Aripo u,BV,2
+1,Upper Aripo u,C,23
+1,Upper Aripo u,CB,10
+1,Upper Aripo u,CI,7
+1,Upper Aripo u,E,15
+1,Upper Aripo u,G,310
+1,Upper Aripo u,H,18
+1,Upper Aripo u,L,147
+1,Upper Aripo u,N,3
+1,Upper Aripo u,U,445
+2,Upper Aripo u,A,16
+2,Upper Aripo u,AE,2
+2,Upper Aripo u,AG,21
+2,Upper Aripo u,AL,1
+2,Upper Aripo u,AV,1
+2,Upper Aripo u,BD,260
+2,Upper Aripo u,BJ,1
+2,Upper Aripo u,BK,1
+2,Upper Aripo u,BT,9
+2,Upper Aripo u,C,15
+2,Upper Aripo u,CB,4
+2,Upper Aripo u,CI,1
+2,Upper Aripo u,E,27
+2,Upper Aripo u,G,155
+2,Upper Aripo u,L,30
+2,Upper Aripo u,N,1
+2,Upper Aripo u,U,100
+3,Upper Aripo u,A,33
+3,Upper Aripo u,AG,49
+3,Upper Aripo u,AL,7
+3,Upper Aripo u,AV,2
+3,Upper Aripo u,BD,89
+3,Upper Aripo u,BJ,3
+3,Upper Aripo u,BT,32
+3,Upper Aripo u,C,1
+3,Upper Aripo u,E,25
+3,Upper Aripo u,G,14
+3,Upper Aripo u,L,52
+3,Upper Aripo u,N,1
+3,Upper Aripo u,U,170
+4,Upper Aripo u,A,31
+4,Upper Aripo u,AE,1
+4,Upper Aripo u,AG,152
+4,Upper Aripo u,AL,13
+4,Upper Aripo u,AQ,1
+4,Upper Aripo u,BD,430
+4,Upper Aripo u,BT,2
+4,Upper Aripo u,BV,3
+4,Upper Aripo u,C,17
+4,Upper Aripo u,CC,23
+4,Upper Aripo u,G,4
+4,Upper Aripo u,H,1
+4,Upper Aripo u,L,237
+4,Upper Aripo u,U,198
+5,Upper Aripo u,A,109
+5,Upper Aripo u,AE,1
+5,Upper Aripo u,AG,133
+5,Upper Aripo u,AL,8
+5,Upper Aripo u,AQ,1
+5,Upper Aripo u,BB,3
+5,Upper Aripo u,BD,182
+5,Upper Aripo u,BJ,21
+5,Upper Aripo u,BT,3
+5,Upper Aripo u,C,2
+5,Upper Aripo u,CB,18
+5,Upper Aripo u,D,2
+5,Upper Aripo u,E,152
+5,Upper Aripo u,G,209
+5,Upper Aripo u,L,83
+5,Upper Aripo u,N,2
+5,Upper Aripo u,U,261
+6,Upper Aripo u,A,62
+6,Upper Aripo u,AG,33
+6,Upper Aripo u,AL,52
+6,Upper Aripo u,AV,18
+6,Upper Aripo u,BD,266
+6,Upper Aripo u,BJ,6
+6,Upper Aripo u,BT,14
+6,Upper Aripo u,C,4
+6,Upper Aripo u,D,1
+6,Upper Aripo u,E,9
+6,Upper Aripo u,G,39
+6,Upper Aripo u,H,1
+6,Upper Aripo u,L,420
+6,Upper Aripo u,N,2
+6,Upper Aripo u,U,105
+7,Upper Aripo u,A,16
+7,Upper Aripo u,AG,81
+7,Upper Aripo u,AL,4
+7,Upper Aripo u,AQ,4
+7,Upper Aripo u,BB,2
+7,Upper Aripo u,BD,330
+7,Upper Aripo u,BK,2
+7,Upper Aripo u,C,21
+7,Upper Aripo u,CB,1
+7,Upper Aripo u,E,1
+7,Upper Aripo u,G,13
+7,Upper Aripo u,L,339
+7,Upper Aripo u,N,3
+7,Upper Aripo u,U,35
+8,Upper Aripo u,A,62
+8,Upper Aripo u,AG,13
+8,Upper Aripo u,AL,7
+8,Upper Aripo u,BB,1
+8,Upper Aripo u,BD,162
+8,Upper Aripo u,BJ,3
+8,Upper Aripo u,BK,1
+8,Upper Aripo u,BT,1
+8,Upper Aripo u,CB,4
+8,Upper Aripo u,E,31
+8,Upper Aripo u,G,11
+8,Upper Aripo u,H,1
+8,Upper Aripo u,L,39
+8,Upper Aripo u,N,2
+8,Upper Aripo u,U,106
+9,Upper Aripo u,A,36
+9,Upper Aripo u,AG,26
+9,Upper Aripo u,AL,14
+9,Upper Aripo u,BB,5
+9,Upper Aripo u,BD,186
+9,Upper Aripo u,BJ,6
+9,Upper Aripo u,BT,9
+9,Upper Aripo u,C,4
+9,Upper Aripo u,CB,5
+9,Upper Aripo u,E,25
+9,Upper Aripo u,G,38
+9,Upper Aripo u,H,2
+9,Upper Aripo u,L,38
+9,Upper Aripo u,U,73
+10,Upper Aripo u,A,55
+10,Upper Aripo u,AE,3
+10,Upper Aripo u,AG,29
+10,Upper Aripo u,AL,69
+10,Upper Aripo u,AV,6
+10,Upper Aripo u,BD,1065
+10,Upper Aripo u,BJ,4
+10,Upper Aripo u,BT,19
+10,Upper Aripo u,BV,1
+10,Upper Aripo u,C,36
+10,Upper Aripo u,CB,10
+10,Upper Aripo u,CC,2
+10,Upper Aripo u,E,112
+10,Upper Aripo u,G,35
+10,Upper Aripo u,L,177
+10,Upper Aripo u,N,1
+10,Upper Aripo u,U,326
+11,Upper Aripo u,A,33
+11,Upper Aripo u,AG,14
+11,Upper Aripo u,AL,12
+11,Upper Aripo u,AV,1
+11,Upper Aripo u,BD,88
+11,Upper Aripo u,BJ,17
+11,Upper Aripo u,BT,35
+11,Upper Aripo u,C,7
+11,Upper Aripo u,CB,1
+11,Upper Aripo u,E,14
+11,Upper Aripo u,G,19
+11,Upper Aripo u,H,2
+11,Upper Aripo u,L,40
+11,Upper Aripo u,U,76
+12,Upper Aripo u,A,1
+12,Upper Aripo u,AG,2
+12,Upper Aripo u,BD,5
+12,Upper Aripo u,BT,9
+12,Upper Aripo u,C,1
+12,Upper Aripo u,G,7
+12,Upper Aripo u,H,2
+12,Upper Aripo u,L,18
+12,Upper Aripo u,U,12
+13,Upper Aripo u,A,22
+13,Upper Aripo u,AG,71
+13,Upper Aripo u,AL,20
+13,Upper Aripo u,AV,1
+13,Upper Aripo u,BB,1
+13,Upper Aripo u,BD,38
+13,Upper Aripo u,BJ,5
+13,Upper Aripo u,C,7
+13,Upper Aripo u,E,11
+13,Upper Aripo u,G,51
+13,Upper Aripo u,H,3
+13,Upper Aripo u,L,40
+13,Upper Aripo u,U,82
+14,Upper Aripo u,A,15
+14,Upper Aripo u,AG,12
+14,Upper Aripo u,AL,2
+14,Upper Aripo u,AQ,1
+14,Upper Aripo u,AV,5
+14,Upper Aripo u,BB,2
+14,Upper Aripo u,BD,288
+14,Upper Aripo u,BJ,4
+14,Upper Aripo u,BT,2
+14,Upper Aripo u,C,6
+14,Upper Aripo u,CB,1
+14,Upper Aripo u,CI,2
+14,Upper Aripo u,E,13
+14,Upper Aripo u,G,94
+14,Upper Aripo u,H,1
+14,Upper Aripo u,L,20
+14,Upper Aripo u,N,14
+14,Upper Aripo u,U,48
+15,Upper Aripo u,A,50
+15,Upper Aripo u,AG,8
+15,Upper Aripo u,AL,3
+15,Upper Aripo u,AV,4
+15,Upper Aripo u,BB,2
+15,Upper Aripo u,BD,21
+15,Upper Aripo u,BJ,4
+15,Upper Aripo u,BK,1
+15,Upper Aripo u,BT,30
+15,Upper Aripo u,C,12
+15,Upper Aripo u,CB,1
+15,Upper Aripo u,CI,8
+15,Upper Aripo u,E,50
+15,Upper Aripo u,G,17
+15,Upper Aripo u,H,4
+15,Upper Aripo u,L,55
+15,Upper Aripo u,N,1
+15,Upper Aripo u,U,33
+16,Upper Aripo u,AL,1
+16,Upper Aripo u,BD,1
+16,Upper Aripo u,BT,19
+16,Upper Aripo u,H,2
+16,Upper Aripo u,L,3
+16,Upper Aripo u,U,3
+17,Upper Aripo u,A,7
+17,Upper Aripo u,AG,4
+17,Upper Aripo u,AL,3
+17,Upper Aripo u,AV,1
+17,Upper Aripo u,BD,8
+17,Upper Aripo u,BJ,2
+17,Upper Aripo u,BT,9
+17,Upper Aripo u,C,2
+17,Upper Aripo u,E,12
+17,Upper Aripo u,G,92
+17,Upper Aripo u,H,10
+17,Upper Aripo u,L,11
+17,Upper Aripo u,U,13
+18,Upper Aripo u,A,12
+18,Upper Aripo u,AG,4
+18,Upper Aripo u,AL,2
+18,Upper Aripo u,AV,8
+18,Upper Aripo u,BB,1
+18,Upper Aripo u,BD,25
+18,Upper Aripo u,BJ,2
+18,Upper Aripo u,BT,8
+18,Upper Aripo u,C,3
+18,Upper Aripo u,CI,7
+18,Upper Aripo u,E,15
+18,Upper Aripo u,G,79
+18,Upper Aripo u,H,2
+18,Upper Aripo u,L,28
+18,Upper Aripo u,U,23
+19,Upper Aripo u,A,1
+19,Upper Aripo u,AG,3
+19,Upper Aripo u,AV,2
+19,Upper Aripo u,BD,1
+19,Upper Aripo u,BK,1
+19,Upper Aripo u,BT,1
+19,Upper Aripo u,C,9
+19,Upper Aripo u,E,6
+19,Upper Aripo u,G,18
+19,Upper Aripo u,H,4
+19,Upper Aripo u,L,4
+19,Upper Aripo u,U,17
