@@ -272,12 +272,17 @@ fish[fish$Site=="Quare u" & fish$sampleID==172 & fish$Species=="Poecilia reticul
 fish[fish$Site=="Upper Aripo d" & fish$sampleID==361 & fish$Species=="Poecilia reticulata",]  # OK
 fish[fish$Site=="Acono d" & fish$sampleID==377 & fish$Species=="Poecilia reticulata",]        # OK
 fish[fish$Site=="Quare u" & fish$sampleID==390 & fish$Species=="Poecilia reticulata",]        # OK
-# View(fish[fish$number.seen > 10,]) 
+# Remove "seen" records above since in the end we considered that addinf "seen" for guppies 
+# might not be consistent with the rest of the series data from before 2022.
+
+fish <- fish[!(fish$Site=="Upper Aripo d" & fish$sampleID==361 & fish$Species=="Poecilia reticulata"& fish$number.seen==662),]
+fish <- fish[!(fish$Site=="Acono d" & fish$sampleID==377 & fish$Species=="Poecilia reticulata" & fish$number.seen==548),]
+fish <- fish[!(fish$Site=="Quare u" & fish$sampleID==390 & fish$Species=="Poecilia reticulata" & fish$number.seen==474),]
+
 
 ################################################################################
 # THE ABOVE SECTION MIGHT NEED UPDATING WITH TOTALS FOR
-# P reticulata in multiple sites 2024
-# A hartii in 2024 Upper Aripo D
+# P reticulata in obs with both seen and caught in 2013
 ################################################################################
 
 # Check D & U well assigned:
@@ -309,6 +314,14 @@ fish$Species[fish$Species=="macrobranchium crenulatum"] <- "macrobrachium crenul
 fish$Species[fish$Species=="crenincichla frenata"] <- "crenicichla frenata"
 
 # check whether seen & observed make sense:
+range(fish$number.caught[fish$number.seen>0]) # 0, OK
+range(fish$number.seen[fish$number.caught>0]) # 0, OK
+
+sum(fish$number.seen==0 & fish$HCvsEF=="")    # 24
+#View(fish[fish$number.seen==0 & fish$HCvsEF=="",]) # some typos, some just missing EF or HC entry
+lengths <- c("12 INCH", "2 inches", "3 inches", "4 inch", "5 inches", "6 inches")
+fish$number.seen[fish$number.seen==0 & fish$HCvsEF=="" & fish$length %in% lengths] <- fish$number.caught
+fish$number.caught[fish$number.seen>0 & fish$number.caught>0] <- 0 # corrected because these records are likely seen, not caught
 range(fish$number.caught[fish$number.seen>0]) # 0, OK
 range(fish$number.seen[fish$number.caught>0]) # 0, OK
 
