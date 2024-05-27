@@ -278,7 +278,9 @@ fish[fish$Site=="Quare u" & fish$sampleID==390 & fish$Species=="Poecilia reticul
 fish <- fish[!(fish$Site=="Upper Aripo d" & fish$sampleID==361 & fish$Species=="Poecilia reticulata"& fish$number.seen==662),]
 fish <- fish[!(fish$Site=="Acono d" & fish$sampleID==377 & fish$Species=="Poecilia reticulata" & fish$number.seen==548),]
 fish <- fish[!(fish$Site=="Quare u" & fish$sampleID==390 & fish$Species=="Poecilia reticulata" & fish$number.seen==474),]
-
+range(fish$number.caught[fish$Species=="Poecilia reticulata"])           # 0 2886
+sort(unique(fish$number.caught[fish$Species=="Poecilia reticulata"]))    # only a few above 1000
+View(fish[fish$Species=="Poecilia reticulata" & fish$number.caught==0,]) # Double-check this observation
 
 ################################################################################
 # THE ABOVE SECTION MIGHT NEED UPDATING WITH TOTALS FOR
