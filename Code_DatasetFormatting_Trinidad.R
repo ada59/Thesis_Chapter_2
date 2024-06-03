@@ -117,6 +117,13 @@ sum(fish$number.caught[fish$Species=="Hoplias malabaricus"])
 sum(fish$number.seen[fish$Species=="Hoplias malabaricus"])
 29515.4/(422+68) # 60.23551 --> 60g
 
+# retrieve av. weight D monticola (see in Checks below for observation 
+# from April 2011 in Lower Aripo Undisturbed)
+sum(fish$weight[fish$Species=="Agonostomus monticola"]) 
+sum(fish$number.caught[fish$Species=="Agonostomus monticola"])
+sum(fish$number.seen[fish$Species=="Agonostomus monticola"])
+38.2/3 # 12.73333 --> 13g
+
 #View(fish[fish$Species=="Astyanax bimaculatus",])
 #View(fish[fish$Species=="Hemibrycon taeniurus",])
 #View(fish[fish$Species=="Rhamdia quelen",])
@@ -170,6 +177,9 @@ fish$Day <- as.integer(fish$Day)
 fish$Month <- as.integer(fish$Month)
 fish$Year <- as.integer(fish$Year)
 
+# Note on C. aeneus for Lower Aripo Dis 2024: ----------------------------------
+# I didn't round this up to 100 because, although that was our initial estimate, it
+# seems in the end we managed to sample most of the large shoal that was observed.
 
 # Add sessions:-----------------------------------------------------------------
 
@@ -264,28 +274,22 @@ save(keysamplingdates, file="keysamplingdates.RData")
 # Checks: ----------------------------------------------------------------------
 check <- fish %>% group_by(Site, Year, Month, Day) %>% summarise(n=n_distinct(sampleID)) # OK, always 1
 
-# NOTE for below: Rest guppies sampled when 1000 in seen: 
 # View(fish[fish$Species=="Poecilia reticulata" & fish$number.seen>0,])
-# The below data were updated when entering the data in May-June 2023.
+fish[fish$Site=="Quare u" & fish$sampleID==172 & fish$Species=="Poecilia reticulata",]        # Rm seen
+fish[fish$Site=="Upper Aripo d" & fish$sampleID==361 & fish$Species=="Poecilia reticulata",]  # Rm seen
+fish[fish$Site=="Acono d" & fish$sampleID==377 & fish$Species=="Poecilia reticulata",]        # Rm seen
+fish[fish$Site=="Quare u" & fish$sampleID==390 & fish$Species=="Poecilia reticulata",]        # Rm seen
 
-fish[fish$Site=="Quare u" & fish$sampleID==172 & fish$Species=="Poecilia reticulata",]        # Leave as is
-fish[fish$Site=="Upper Aripo d" & fish$sampleID==361 & fish$Species=="Poecilia reticulata",]  # OK
-fish[fish$Site=="Acono d" & fish$sampleID==377 & fish$Species=="Poecilia reticulata",]        # OK
-fish[fish$Site=="Quare u" & fish$sampleID==390 & fish$Species=="Poecilia reticulata",]        # OK
-# Remove "seen" records above since in the end we considered that addinf "seen" for guppies 
-# might not be consistent with the rest of the series data from before 2022.
+# DECISION MAY 2024: Remove all "seen" records for guppies.  
+# This "seen" records were only added for a few observations,
+# but upon discussing it we decided it is more consistent to keep only records 
+# sampled, because incomplete sampling of guppies in some sites is often unavoidable.
 
-fish <- fish[!(fish$Site=="Upper Aripo d" & fish$sampleID==361 & fish$Species=="Poecilia reticulata"& fish$number.seen==662),]
-fish <- fish[!(fish$Site=="Acono d" & fish$sampleID==377 & fish$Species=="Poecilia reticulata" & fish$number.seen==548),]
-fish <- fish[!(fish$Site=="Quare u" & fish$sampleID==390 & fish$Species=="Poecilia reticulata" & fish$number.seen==474),]
-range(fish$number.caught[fish$Species=="Poecilia reticulata"])           # 0 2886
+fish <- fish[!(fish$Species=="Poecilia reticulata" & fish$number.seen>0),]
+
+range(fish$number.caught[fish$Species=="Poecilia reticulata"])           # 3 2886
 sort(unique(fish$number.caught[fish$Species=="Poecilia reticulata"]))    # only a few above 1000
-View(fish[fish$Species=="Poecilia reticulata" & fish$number.caught==0,]) # Double-check this observation
 
-################################################################################
-# THE ABOVE SECTION MIGHT NEED UPDATING WITH TOTALS FOR
-# P reticulata in obs with both seen and caught in 2013
-################################################################################
 
 # Check D & U well assigned:
 sort(unique(fish$Disturbed))
@@ -342,6 +346,39 @@ fish$Species[fish$Species=="poecilia sphenops"] <- "poecilia sp"
 fish$Species[fish$Species=="oreochromis mossambicus"] <- "oreochromis sp"
 sort(unique(fish$Species))
 
+# Add Two D. monticola for 6/05/2011 in Lower Aripo U (see notes in abiotic data)
+str(fish)
+Mullet_LA_U_May2011 <- c("sampleID"=58,
+                         "Site"="Lower Aripo u",
+                         "Disturbed"="undisturbed",
+                         "Day"=06,
+                         "Month"=05,
+                         "Year"=2011,
+                         "Species"="agonostomus monticola",
+                         "number.caught"=2,
+                         "number.seen"=0,
+                         "HCvsEF"=NA,
+                         "weight"=13, # av. ever seen in obs up to 2023.
+                         "length"="av. ever seen in obs up to 2023, added in 2024 after noticing note in sampling",
+                         "females"=NA,
+                         "males"=NA,
+                         "juveniles"=NA,
+                         "Session"=2,
+                         "Season"=3)
+fish <- rbind(fish, Mullet_LA_U_May2011)
+# View(fish[fish$sampleID==58,])
+str(fish)
+
+fish$sampleID <- as.integer(fish$sampleID)
+fish$Day <- as.integer(fish$Day)
+fish$Month <- as.integer(fish$Month)
+fish$Year <- as.integer(fish$Year)
+fish$Session <- as.integer(fish$Session)
+fish$Season <- as.integer(fish$Season)
+fish$weight <- as.numeric(fish$weight)
+fish$number.caught <- as.integer(fish$number.caught)
+fish$number.seen <- as.integer(fish$number.seen)
+
 
 # Taxonomic updates: -----------------------------------------------------------
 sort(unique(fish$Species))
@@ -371,7 +408,7 @@ sort(unique(fish$Genus))
 # Create fish & macinv datasets: -----------------------------------------------
 
 sum(fish$Genus %in% c("Macrobrachium", "Eudaniela", "Atya"))  # 599 records
-
+str(fish)
 fish$TotalB <- ifelse(fish$number.seen > 0, (fish$weight * fish$number.seen), (fish$number.caught * fish$weight))
 fish$TotalA <- ifelse(fish$number.seen == 0, fish$number.caught, fish$number.seen) # very large number of guppies, appears accurate to rawdata!
 
@@ -429,6 +466,9 @@ save(aggFish2010_15, file=paste0(path_formatted_outputs, "/aggFish2010_15.RData"
 
 
 # Check differences with previous files: =======================================
+# After removing "seen" records for guppies there might also be a difference 
+# in the total count & biomass of guppies for Quare u in April 2013.
+
 dtv1 <- read.csv(paste0(rawdatapath, "/BioTIME/BioTIME_dataset_Trinidad_Fish_Survey.csv"), h=T)
 sort(unique(dtv1$species))
 dtv1$species[dtv1$species=="Agonostomus monticola"] <- "Dajaus monticola"
