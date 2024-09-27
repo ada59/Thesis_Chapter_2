@@ -1,4 +1,4 @@
-# Thesis General Methods Chapter
+# Thesis Chapter 2 (general methods for chapters 3 & 4)
 
 ## General Methods: Data, Results & Figures
 
